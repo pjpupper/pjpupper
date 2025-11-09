@@ -32,11 +32,11 @@
 </p>
 
 <p align="right">
-    <img width="350" src="https://i.postimg.cc/hjkBvGvS/tumblr-5978a0fd780dad45248df86218dac02c-caf173cf-540.png" alt="rich">
+    <img width="400" src="https://i.postimg.cc/hjkBvGvS/tumblr-5978a0fd780dad45248df86218dac02c-caf173cf-540.png" alt="rich">
 </p>
 
 <p align="left">
-    <img width="350" src="https://i.postimg.cc/xCJQ9m03/tumblr-3cc546d18e7cf0ac63c202444ef25bab-29fba0d8-540.png" alt="eds">
+    <img width="400" src="https://i.postimg.cc/xCJQ9m03/tumblr-3cc546d18e7cf0ac63c202444ef25bab-29fba0d8-540.png" alt="eds">
 </p>
 
 <p align="right">
