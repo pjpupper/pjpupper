@@ -9,7 +9,7 @@
 
 <!-- Strawpage message -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=7000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=37&duration=7000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" />
 </p>
 
 <!-- Moon banner -->
