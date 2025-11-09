@@ -22,15 +22,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=23&duration=2000&pause=500&color=425756&center=true&vCenter=true&width=100&lines=%CB%8E%CB%8A%CB%97" alt="right deco" />
 </p>
 
+<p align="center">
+    <img width="350" src="https://i.postimg.cc/h4CZq1MH/output-onlinepngtools-2.png" alt="banner">
+</p>
+
+<p align="left">
+    <img width="350" src="https://64.media.tumblr.com/2bbc3ab1eeb5f22ff1d64945ab9a099e/e1aed535dca23fc5-56/s640x960/85d3e1dd945082587f5644e04b2fa442e9cd601a.pnj" alt="banner">
+</p>
+
 <p align="right">
     <img width="350" src="https://i.postimg.cc/hjkBvGvS/tumblr-5978a0fd780dad45248df86218dac02c-caf173cf-540.png" alt="rich">
 </p>
-
 
 <p align="left">
     <img width="350" src="https://i.postimg.cc/xCJQ9m03/tumblr-3cc546d18e7cf0ac63c202444ef25bab-29fba0d8-540.png" alt="eds">
 </p>
 
+<p align="right">
+    <img width="350" src="https://64.media.tumblr.com/2bbc3ab1eeb5f22ff1d64945ab9a099e/e1aed535dca23fc5-56/s640x960/85d3e1dd945082587f5644e04b2fa442e9cd601a.pnj" alt="banner">
+</p>
+
+<p align="center">
+    <img width="350" src="https://i.postimg.cc/h4CZq1MH/output-onlinepngtools-2.png" alt="banner">
+</p>
 
 <p align="left">
   <!-- Left decoration -->
