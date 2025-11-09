@@ -32,6 +32,16 @@
 </p>
 
 
+<p align="left">
+  <!-- Left decoration -->
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=23&duration=2000&pause=500&color=425756&center=true&vCenter=true&width=100&lines=%CB%97%CB%8F%CB%8B" alt="left deco" />
+</p>
+
+<p align="right">
+  <!-- Right decoration -->
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=23&duration=2000&pause=500&color=425756&center=true&vCenter=true&width=100&lines=%CB%8E%CB%8A%CB%97" alt="right deco" />
+</p>
+
 
 
 # ‎ ‎ ‎ 
