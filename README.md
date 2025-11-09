@@ -1,18 +1,23 @@
 
 <p align="center">
-< 𝘮𝘺 𝘴𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦 𝘩𝘢𝘴 𝘢𝘭𝘭 𝘮𝘺 𝘭𝘪𝘯𝘬𝘴 3
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=5000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" />
+</p>
+
+
+
+<p align="center">
+    <img width="350" src="https://i.postimg.cc/hjkBvGvS/tumblr-5978a0fd780dad45248df86218dac02c-caf173cf-540.png" alt="rich">
+</p>
+
+# ‎ ‎ ‎ 
+
+<p align="center">
+    <img width="350" src="https://i.postimg.cc/xCJQ9m03/tumblr-3cc546d18e7cf0ac63c202444ef25bab-29fba0d8-540.png" alt="eds">
 </p>
 
 <p align="center">
-    <img width="350" src="https://i.postimg.cc/hjkBvGvS/tumblr-5978a0fd780dad45248df86218dac02c-caf173cf-540.png" alt="reddie">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=5000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=moon+%2C++17++%5C%5C++yumeshipper+%26+kinnie++%5C%5C++writer+%26+artist" alt="moon banner" />
 </p>
 
-<p align="center">
-    <img width="350" src="https://i.postimg.cc/xCJQ9m03/tumblr-3cc546d18e7cf0ac63c202444ef25bab-29fba0d8-540.png" alt="reddie">
-</p>
-
-<p align="center">
-    𝘮𝘰𝘰𝘯 , 17‎ ‎ ‎ ‎ \\‎‎ ‎ ‎ ‎ ‎  𝘺𝘶𝘮𝘦𝘴𝘩𝘪𝘱𝘱𝘦𝘳 & 𝘬𝘪𝘯𝘯𝘪𝘦‎ ‎ ‎ ‎ \\‎ ‎  𝘸𝘳𝘪𝘵𝘦𝘳 & 𝘢𝘳𝘵𝘪𝘴𝘵
-</p>
 
 # ‎ ‎ ‎ 
