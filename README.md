@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img width="500" src="https://i.postimg.cc/Zq1VC3b0/tumblr-py9081wa-X31uk711fo2-1280-Photoroom.png" alt="reddie">
+    <img width="500" src="https://i.postimg.cc/cHTj34Xb/53812a87395f538c1439d45140ae1af4-Photoroom.png" alt="reddie">
 </p>
 
 <p align="center">
