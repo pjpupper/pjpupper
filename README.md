@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=muddymask&style=plastic&color=99B3A6&label=time to float..."/>
+<img src="https://komarev.com/ghpvc/?username=muddymask&style=plastic&color=99B3A6&label=time to float"/>
 </p>
 
 <p align="left">
