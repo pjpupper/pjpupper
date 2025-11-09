@@ -1,13 +1,11 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=5000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=5000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=5000&pause=2000&color=425756&center=true&vCenter=true&width=1800&lines=feel+free+to+leave+a+message+or+drawing,+i+dont+bite+%F0%9F%A4%8D" alt="message banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=5000&pause=2000&color=425756&center=true&vCenter=true&width=1800&lines=feel+free+to+leave+a+message+or+drawing,+i+dont+bite+%F0%9F%A4%8D" alt="message banner" />
 </p>
-
-
 
 
 <p align="center">
@@ -20,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=5000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=moon+or+richie++%5C%5C++yumeshipper+%26+fictkin++%5C%5C++writer+%26+artist" alt="moon banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=5000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=moon+or+richie++%5C%5C++yumeshipper+%26+fictkin++%5C%5C++writer+%26+artist" alt="moon banner" />
 </p>
 
 
