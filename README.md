@@ -1,6 +1,6 @@
 # ‎ ‎ ‎ 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muddymask&color=cf1d26&style=flat&label=🎟️" />
+  <img src="https://komarev.com/ghpvc/?username=muddymask&color=f0b95b&style=flat&label=🌻" />
 </p>
 
 
