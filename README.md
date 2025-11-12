@@ -1,5 +1,10 @@
 # ‎ ‎ ‎ 
 <p align="center">
+    <img width="700" src="https://i.postimg.cc/4NbCt1Yj/tumblr-ed8fdf2fc5b7c33848195f5630fef746-8328a8be-2048.png">
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=muddymask&color=f0b95b&style=flat&label=🌻" />
 </p>
 
@@ -21,6 +26,7 @@ alt="strawpage banner"
   alt="moon banner" /> 
 </p>
 
+# ‎ ‎ ‎ 
 
 
 
@@ -43,15 +49,31 @@ alt="strawpage banner"
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/g07HrfdB/176298512454692613.png" alt="eds">
+    <img width="400" src="https://i.postimg.cc/g07HrfdB/176298512454692613.png" alt="richagain">
 </p>
 
 <p align="center">
     <img width="330" src="https://i.postimg.cc/h4CZq1MH/output-onlinepngtools-2.png" alt="banner">
 </p>
 
+<!-- Other banner --> 
+<div align="center"> 
+<img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=f0b95b&center=true&vCenter=true&width=1800&lines=%22guess+you+could+say+that+was+long+overdue.+get+it%3F+%27cause+we%27re+in+a...+library.%22" 
+alt="other banner" 
+/> 
+</div>
+
+# ‎ ‎ ‎ 
+
+
 <p align="center">
     <img width="900" src="https://i.postimg.cc/Dfr1KWJk/tumblr-aaec6b44a77404ccda7222f51bfdf5d8-c8d1b0a2-540.webp">
+</p>
+
+
+
+<p align="center">
+    <img width="700" src="https://i.postimg.cc/cLspc8Y0/tumblr-e266a9a017bedb61f583f088ef1c0d7c-ae7adfc4-2048.png">
 </p>
 
 # ‎ ‎ ‎ 
