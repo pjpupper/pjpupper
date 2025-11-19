@@ -42,12 +42,12 @@ alt="strawpage banner"
 </p>
 
 <p align="center">
-    <img width="350" src="https://64.media.tumblr.com/c7eb60ba9c15c80c4fa65f82b2dd40f1/1c7f6de19bd97a39-ed/s640x960/5b1537594579838826c9563a31061c61a321d4c8.pnj" alt="banner">
+    <img width="350" src="https://64.media.tumblr.com/f9255d2fa8b1a2d11978c306e1a6f296/ffa3b15ab0f75b77-09/s1280x1920/1485538142d8c6e5541ff9747d1b5811a9876be8.pnj" alt="banner">
 </p>
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/bJpjzyJS/image-(1).png" alt="reddie">
+    <img width="400" src="https://i.postimg.cc/HxdCpYxW/image-(2).png" alt="reddie">
 </p>
 
 <p align="center">
