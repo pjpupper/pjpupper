@@ -1,22 +1,22 @@
 # ‎ ‎ ‎
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muddymask&color=b5474e&style=flat&label=🎈" />
+  <img src="https://komarev.com/ghpvc/?username=muddymask&color=FFD1DC&style=flat&label=🌸,losvers" />
 </p>
 
 <p align="center">
-    <img width="700" src="https://64.media.tumblr.com/cede1ac242ce74f347f692cbef78da2b/6c9f505f7c7a7e9b-21/s1280x1920/8066cc4efda061b0e6264d57bc90bba8becf156d.jpg">
+    <img width="600" src="https://64.media.tumblr.com/99a8a03b3215d44e5979faf01cbb96ac/6d6a639539246533-bb/s640x960/e3e5567b029004b434360280e41bd5b246de2c37.pnj">
 </p>
 
 
 
 <p align="center">
-    <img width="900" src="https://64.media.tumblr.com/a9fe519b346a6cdcce9f6ed7e565acb7/47fdab7d42b4ccbf-37/s2048x3072/fff9509bb74ab1b2a92665ca22bce5deb327148d.pnj">
+    <img width="600" src="https://64.media.tumblr.com/96db06005f1a25e9b3d26e5b08515742/b15d23a765658ea4-99/s1280x1920/2492c868198af6ea594ed288db9b4234097052a6.pnj">
 </p>
 
 <!-- Strawpage banner --> 
 <div align="center"> 
-<img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=b5474e&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" 
+<img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=FFD1DC&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" 
 alt="strawpage banner" 
 /> 
 </div>
@@ -33,21 +33,21 @@ alt="strawpage banner"
 
 
 <p align="center">
-    <img width="350" src="https://64.media.tumblr.com/8a46e75b3c959581e6d4bf2687c8afea/13b15821a9a5bfce-79/s640x960/6c7a3133a835142c1067868f8d003e528ffe347e.pnj" alt="banner">
+    <img width="350" src="https://64.media.tumblr.com/c7eb60ba9c15c80c4fa65f82b2dd40f1/1c7f6de19bd97a39-ed/s640x960/5b1537594579838826c9563a31061c61a321d4c8.pnj" alt="banner">
 </p>
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/Hx148fmF/176314839325553573.webp" alt="rich">
+    <img width="400" src="https://64.media.tumblr.com/f6fae9058d1c40f661050a8ed1a0c932/339ae56e3acd8b0e-46/s540x810/0d35d44965068071f2ef39896cadef0ecc74a896.gif" alt="rich">
 </p>
 
 <p align="center">
-    <img width="350" src="https://64.media.tumblr.com/8a46e75b3c959581e6d4bf2687c8afea/13b15821a9a5bfce-79/s640x960/6c7a3133a835142c1067868f8d003e528ffe347e.pnj" alt="banner">
+    <img width="350" src="https://64.media.tumblr.com/c7eb60ba9c15c80c4fa65f82b2dd40f1/1c7f6de19bd97a39-ed/s640x960/5b1537594579838826c9563a31061c61a321d4c8.pnj" alt="banner">
 </p>
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/1X9tLK0m/176314830623842707.png" alt="richagain">
+    <img width="400" src="https://i.postimg.cc/NjDFhzb1/c2dc08b6fa75206797516fb116299e7f.png" alt="richagain">
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ alt="strawpage banner"
 
 <!-- Other banner --> 
 <div align="center"> 
-<img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=b5474e&center=true&vCenter=true&width=1800&lines=%22guess+you+could+say+that+was+long+overdue.+get+it%3F+%27cause+we%27re+in+a...+library.%22" 
+<img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=FFD1DC&center=true&vCenter=true&width=1800&lines=%22guess+you+could+say+that+was+long+overdue.+get+it%3F+%27cause+we%27re+in+a...+library.%22" 
 alt="other banner" 
 /> 
 </div>
@@ -67,13 +67,13 @@ alt="other banner"
 
 
 <p align="center">
-    <img width="900" src="https://64.media.tumblr.com/a9fe519b346a6cdcce9f6ed7e565acb7/47fdab7d42b4ccbf-37/s2048x3072/fff9509bb74ab1b2a92665ca22bce5deb327148d.pnj">
+    <img width="600" src="https://64.media.tumblr.com/96db06005f1a25e9b3d26e5b08515742/b15d23a765658ea4-99/s1280x1920/2492c868198af6ea594ed288db9b4234097052a6.pnj">
 </p>
 
 
 
 <p align="center">
-    <img width="700" src="https://64.media.tumblr.com/cede1ac242ce74f347f692cbef78da2b/6c9f505f7c7a7e9b-21/s1280x1920/8066cc4efda061b0e6264d57bc90bba8becf156d.jpg">
+    <img width="600" src="https://64.media.tumblr.com/99a8a03b3215d44e5979faf01cbb96ac/6d6a639539246533-bb/s640x960/e3e5567b029004b434360280e41bd5b246de2c37.pnj">
 </p>
 
 # ‎ ‎ ‎ 
