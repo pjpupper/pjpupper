@@ -1,7 +1,7 @@
 # ‎ ‎ ‎
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muddymask&color=FFD1DC&style=flat&label=-(🌸)-losvers.-" />
+  <img src="https://komarev.com/ghpvc/?username=muddymask&color=FFD1DC&style=flat&label=-(💊)gazebos" />
 </p>
 
 <p align="center">
