@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="500" src="https://64.media.tumblr.com/47ec278ee846905598e41f0335e4e3db/406dc238616c68e6-f0/s2048x3072/4950117ccf1147f2b082606bc4b6d35d08e0221d.pnj">
+    <img width="500" src="https://i.postimg.cc/TwqptPVK/738cd85b-2f0a-4683-9cea-8e655babd413.png">
 </p>
 # ‎ ‎ ‎
 
@@ -52,7 +52,7 @@ pop star, pop star ...
 # ‎ ‎ ‎
 
 <p align="center">
-    <img width="500" src="https://64.media.tumblr.com/47ec278ee846905598e41f0335e4e3db/406dc238616c68e6-f0/s2048x3072/4950117ccf1147f2b082606bc4b6d35d08e0221d.pnj">
+    <img width="500" src="https://i.postimg.cc/TwqptPVK/738cd85b-2f0a-4683-9cea-8e655babd413.png">
 </p>
 
 # ‎ ‎ ‎ 
