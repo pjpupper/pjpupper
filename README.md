@@ -59,7 +59,7 @@ pop star, pop star ...
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=fccdca&interchange=false&profanity=false&bar_color=9dc394&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=fccdca&interchange=false&profanity=false&bar_color=fccdca&bar_color_cover=false">
   </a>
 </p>
 
