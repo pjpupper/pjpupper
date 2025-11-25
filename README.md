@@ -11,7 +11,7 @@
 
 
 <p align="center">
-my strawpage has all my links ...
+my carrd has all my links ...
 </p>
 
 <p align="center">
