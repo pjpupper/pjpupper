@@ -1,9 +1,5 @@
 # ‎ ‎ ‎ 
 
-<p align="center">
-    <img width="500" src="https://i.postimg.cc/vBkJVwnK/Untitled826-20241117131729.png">
-</p>
-
 
 
 
@@ -56,9 +52,5 @@ yumeshipper, ‎ ‎ ‎‎ ‎ ‎ ‎ ‎fictkin,
 </p>
 
 
-
-<p align="center">
-    <img width="500" src="https://i.postimg.cc/2yWPd9FS/Untitled826-20241117131730.png" alt="banner">
-</p>
 
 # ‎ ‎ ‎ 
