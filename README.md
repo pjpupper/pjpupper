@@ -18,7 +18,7 @@
 
 
 <p align="center">
-    <img width="250" src="https://i.postimg.cc/c4rKJHB2/95456a90-68bb-4c7c-aa1b-5fa3fc634208.png" alt="reddie">
+    <img width="450" src="https://i.postimg.cc/fLqxW7Cz/e594d0e8-cb4c-4f42-889e-96f6d50861f9.png" alt="reddie">
 </p>
 
 <p align="center">
