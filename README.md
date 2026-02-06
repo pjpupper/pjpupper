@@ -18,14 +18,6 @@
 </p>
 
 
-<p align="center">
-<br>
-<a href="https://pjpup.straw.page/">about</a>
-<br><br>
-</p>
-
-
-
 
 <p align="center"> 
 ziggy ‎ ‎‎ or ‎‎ ‎ ‎richie‎ ‎‎ ‎ ‎  ‎︵‎ ‎ ‎ ‎7teen 
