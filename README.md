@@ -18,15 +18,6 @@
 </p>
 
 
-
-<p align="center"> 
-ziggy ‎ ‎‎ or ‎‎ ‎ ‎richie‎ ‎‎ ‎ ‎  ‎︵‎ ‎ ‎ ‎7teen 
-</p> 
-
-<p align="center"> 
-yumeshipper, ‎ ‎ ‎‎ ‎ ‎ ‎ ‎fictkin, 
-</p> 
-
 <p align="center"> 
 ︵‎ ‎ ‎writer, ‎ ‎ ‎‎ ‎ ‎ ‎ ‎artist 
 </p>
