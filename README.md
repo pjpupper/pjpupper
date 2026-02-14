@@ -23,7 +23,7 @@
       $\color{#c7d694}{\textsf{don't ask me to date you, i don't know you}}$ <br>
       $\color{#c7d694}{\textsf{usually always off tab so w2i}}$ <br>
       $\color{#c7d694}{\textsf{i have a lot of neuroses so don't be rude 2 me}}$ <br>
-      $\color{#D3CDA9}{\textsf{im a minor}}$ <br>
+      $\color{#D3CDA9}{\textsf{i'm a minor}}$ <br>
       $\color{#D3CDA9}{\textsf{not as active as i'd like to be}}$ <br>
       $\color{#D3CDA9}{\textsf{puppy boy / bear cub}}$ <br>
       $\color{#D3CDA9}{\textsf{pj ransone defender}}$ <br>
