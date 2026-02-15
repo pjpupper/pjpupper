@@ -25,6 +25,7 @@
       $\color{#c7d694}{\textsf{i have a lot of neuroses so don't be rude 2 me}}$ <br>
       $\color{#D3CDA9}{\textsf{i'm a minor}}$ <br>
       $\color{#D3CDA9}{\textsf{not as active as i'd like to be}}$ <br>
+      $\color{#D3CDA9}{\textsf{hippie}}$ <br>
       $\color{#D3CDA9}{\textsf{pj ransone defender}}$ <br>
 </th>
 </tr>
