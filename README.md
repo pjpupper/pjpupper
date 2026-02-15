@@ -5,9 +5,11 @@
 </div>
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=pjpupper&label=bloggers;%20&color=1b1c1c&style=flat" alt="pjpupper" /> </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper&left_color=1b1c1c&right_color=1b1c1c&left_text=bloggers;"/>
+
 
 </div>‎ ‎ ‎‎ ‎ 
+
 
 
 <img src="https://64.media.tumblr.com/c4153c321a0f8afe0473bba118c568e8/49833ea7a3e178f3-5a/s1280x1920/b0861bf5a0cabd65c91272cb63b908e532540dc9.gifv"/>
@@ -17,7 +19,7 @@
 
   </br>
 
-
+<div align="center">
 <img width="40" height="30" alt="64471025_wiN" src="https://i.postimg.cc/c4LR12Lz/714e8aa9-8155-4f35-b6d5-b72d402c660b.png"/>
 <img width="40" height="30" alt="64471029_zre" src="https://i.postimg.cc/4Nx64qxr/dbaba4ff-f1fc-4512-8058-184c0068e4d5.png" />
 <img width="40" height="30" alt="66080899_08iFkBb775VC0f0" src="https://i.postimg.cc/yY8m6t82/4ab7dba2-1fe9-496c-b143-e50be4a337bd.png" />
