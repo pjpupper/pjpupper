@@ -22,8 +22,10 @@
       $\color{#c7d694}{\textsf{c+h is fine, just don't be weird}}$ <br>
       $\color{#c7d694}{\textsf{usually always off tab so w2i}}$ <br>
       $\color{#c7d694}{\textsf{i have a lot of neuroses so don't be rude 2 me}}$ <br>
-      $\color{#D3CDA9}{\textsf{i'm a minor}}$ <br>
+      $\color{#c7d694}{\textsf{i'm a minor}}$ <br>
       $\color{#D3CDA9}{\textsf{not as active as i'd like to be}}$ <br>
+      $\color{#D3CDA9}{\textsf{i swear a lot}}$ <br>
+      $\color{#D3CDA9}{\textsf{i make a lot of freaky jokes}}$ <br>
       $\color{#D3CDA9}{\textsf{hippie}}$ <br>
       $\color{#D3CDA9}{\textsf{pj ransone defender}}$ <br>
 </th>
@@ -43,7 +45,7 @@
 $\color{#D3CDA9}{\textsf{proshippers}}$ <br>
 $\color{#D3CDA9}{\textsf{hannigram shippers}}$ <br>
 $\color{#D3CDA9}{\textsf{bigots}}$ <br>
-$\color{#c7d694}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
+$\color{#D3CDA9}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 $\color{#c7d694}{\textsf{pj antis}}$ <br>
 $\color{#c7d694}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
 $\color{#c7d694}{\textsf{under 16s}}$ <br>
