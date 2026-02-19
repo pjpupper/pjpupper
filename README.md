@@ -8,7 +8,7 @@
     <tr></tr>
     
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=24&duration=3000&pause=3000&color=940303&center=true&vCenter=true&width=500&height=40&lines=Eduardo%21%20%C3%81ndale%21%20Let%27s%20go%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=24&duration=3000&pause=3000&color=940303&center=true&vCenter=true&width=500&height=40&lines=Eduardo%21%20%C3%81ndale%21%20Let%27s%20go%21" alt="Typing SVG" />
 </a>
 
     
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/P50yKjJY/dfb36b01-87ad-4125-9a68-d0a27e52e3de.jpg" width="320" alt="snake ota kiss" align="right" title="ac: arcsi0">
+<img src="https://i.postimg.cc/P50yKjJY/dfb36b01-87ad-4125-9a68-d0a27e52e3de.jpg" width="500" align="right" title="ac: arcsi0">
 
 </div>
 
@@ -33,6 +33,8 @@
 <br>
 
 <div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=30&duration=1&pause=5000&color=940303&center=true&vCenter=true&width=200&height=25&lines=!!!" alt="Typing SVG" /></a>
 
 <table>
   <tr>
@@ -59,7 +61,7 @@
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4508fe2f-f853-46ff-bcd6-19cd43a4ec15/d26u2nz-762d5439-f208-4583-8332-0eb8ea6fca08.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80NTA4ZmUyZi1mODUzLTQ2ZmYtYmNkNi0xOWNkNDNhNGVjMTUvZDI2dTJuei03NjJkNTQzOS1mMjA4LTQ1ODMtODMzMi0wZWI4ZWE2ZmNhMDgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ftv-rMYTlnesyyFErIBAVj8W9Iu-QANLACV1UwUEG20"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc4e2fca-8a6d-4519-af72-4010afdc5587/dankzyj-6ef96624-dc16-47e1-a2f7-499747d35c13.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iYzRlMmZjYS04YTZkLTQ1MTktYWY3Mi00MDEwYWZkYzU1ODcvZGFua3p5ai02ZWY5NjYyNC1kYzE2LTQ3ZTEtYTJmNy00OTk3NDdkMzVjMTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xK1px_5i63Kt0k93ISkj_xkm72kFzZSkVY5xL7B4N_g"> <img width="115" height="100" src="https://i.postimg.cc/NMN8ZqDn/ezgif-5e4904b12c688dce.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=30&duration=1&pause=5000&color=121212&center=true&vCenter=true&width=200&height=25&lines=Do+Not+Interact" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=30&duration=1&pause=5000&color=940303&center=true&vCenter=true&width=200&height=25&lines=Do+Not+Interact" alt="Typing SVG" /></a>
 <table>
   <tr>
     <th>
@@ -79,6 +81,4 @@ $\color{#940303}{\textsf{political junkies}}$ <br>
 <img src="https://i.postimg.cc/26SPNYQc/image-(15).png" height="450">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=e9ecb6&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-<img src="https://i.postimg.cc/dt2n6XdW/73cab504-82ff-42e4-bacd-ff78317a7361.png" height="335" align="left" alt="old snotacon" title="ac: mysticbaconslice">
 
