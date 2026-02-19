@@ -40,6 +40,7 @@
   <tr>
     <th>
       $\color{#940303}{\textsf{c+h is fine, just don't be weird}}$ <br>
+      $\color{#940303}{\textsf{flamboyant richie tozier believer}}$ <br>
       $\color{#940303}{\textsf{usually always off tab so w2i}}$ <br>
       $\color{#940303}{\textsf{i have a lot of neuroses so don't be rude 2 me}}$ <br>
       $\color{#940303}{\textsf{i'm a minor}}$ <br>
@@ -80,5 +81,5 @@ $\color{#940303}{\textsf{political junkies}}$ <br>
 
 <img src="https://i.postimg.cc/26SPNYQc/image-(15).png" height="450">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=e9ecb6&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
