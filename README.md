@@ -61,10 +61,13 @@ $\color{#f5542c}{\textsf{𝜗ৎ}}$ <br>
   <tr>
     <th>
 $\color{#5BC6E2}{\textsf{proshippers}}$ <br>
-$\color{#5BC6E2}{\textsf{hannigram shippers, regan shippers (any ship that is abusive or noncon)}}$ <br>
+$\color{#5BC6E2}{\textsf{hannigram shippers}}$ <br>
+$\color{#5BC6E2}{\textsf{regan shippers}}$ <br>
+$\color{#5BC6E2}{\textsf{people who ship abusive ships}}$ <br>
+$\color{#5BC6E2}{\textsf{people who ship noncon ships}}$ <br>
 $\color{#5BC6E2}{\textsf{bigots}}$ <br>
-$\color{#5BC6E2}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
-$\color{#5BC6E2}{\textsf{pj antis}}$ <br>
+$\color{#f5542c}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
+$\color{#f5542c}{\textsf{pj antis}}$ <br>
 $\color{#f5542c}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
 $\color{#f5542c}{\textsf{under 16s}}$ <br>
 $\color{#f5542c}{\textsf{abusers}}$ <br>
