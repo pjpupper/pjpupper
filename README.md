@@ -1,4 +1,6 @@
 <div align="center">
+<img width="200" height="90" alt="gif" src="https://iili.io/n03HJyP.gif" />
+<div align="center">
 
 
 
@@ -10,8 +12,6 @@
 <div align="center">
 
 <h6 align="center">
- 
- ![profileviews](https://komarev.com/ghpvc/?username=pjpupper&style=plastic&label=otters+&color=262726&abbreviated=true)
 
 
 <img width="600" height="420" alt="gif" src="https://iili.io/n02raeV.gif" />
