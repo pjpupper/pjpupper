@@ -13,7 +13,7 @@
 <h6 align="center">
 
 
-<img width="500" height="360" alt="gif" src="https://iili.io/n03q73u.gif" />
+<img width="600" height="420" alt="gif" src="https://iili.io/n03q73u.gif" />
 
 $\color{#FFFFFF}{\textsf{BFYI}}$ <br>
 
