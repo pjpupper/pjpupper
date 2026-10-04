@@ -1,5 +1,5 @@
 <div align="center">
-<img width="185" height="90" alt="gif" src="https://iili.io/n03HJyP.gif" />
+<img width="185" height="80" alt="gif" src="https://iili.io/n03HJyP.gif" />
 <div align="center">
 
 
@@ -14,7 +14,7 @@
 <h6 align="center">
 
 
-<img width="600" height="420" alt="gif" src="https://iili.io/n02raeV.gif" />
+<img width="500" height="360" alt="gif" src="https://iili.io/n02raeV.gif" />
 
 $\color{#FFFFFF}{\textsf{BFYI}}$ <br>
 
