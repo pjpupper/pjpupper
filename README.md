@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=red&right_color=black&left_text=otters"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=lightblue&right_color=black&left_text=otters"/>
 
 
 
