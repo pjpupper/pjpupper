@@ -1,8 +1,8 @@
 <div align="center">
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=lightblue&right_color=black&left_text=otters"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=black&right_color=black&left_text=otters"/>
 <img src="https://gifcity.carrd.co/assets/images/gallery12/9fde54a5.gif?v=3fc8f5cd">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=red&color=black">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=lightblue&color=black">
 
 
 
