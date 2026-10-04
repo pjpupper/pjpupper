@@ -1,5 +1,4 @@
 <div align="center">
-<img width="185" height="80" alt="gif" src="https://iili.io/n03HJyP.gif" />
 <div align="center">
 
 
