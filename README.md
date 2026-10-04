@@ -14,7 +14,7 @@
  ![profileviews](https://komarev.com/ghpvc/?username=pjpupper&style=plastic&label=otters+&color=A76140&abbreviated=true)
 
 
-<img width="600" height="420" alt="image" src="https://i.postimg.cc/T2cbv2Js/a.gif" />
+<img width="600" height="420" alt="gif" src="https://i.postimg.cc/T2cbv2Js/a.gif" />
 
 $\color{#FFFFFF}{\textsf{BFYI}}$ <br>
 
