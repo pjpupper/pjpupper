@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=lightblue&right_color=black&left_text=ottersones"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=lightblue&right_color=black&left_text=otters"/>
 <img src="https://gifcity.carrd.co/assets/images/gallery12/11b71797.gif?v=3fc8f5cd">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=loser'sclub&labelColor=red&color=black">
 
