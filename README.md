@@ -1,5 +1,5 @@
 <div align="center">
-<img width="200" height="90" alt="gif" src="https://iili.io/n03HJyP.gif" />
+<img width="185" height="90" alt="gif" src="https://iili.io/n03HJyP.gif" />
 <div align="center">
 
 
