@@ -99,8 +99,6 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <br/>
 <br>
 <br>
-<br>
-<br>
 
   <details>
   <summary> $\color{#a8a7a7}{\textsf{s}}\color{#757474}{\textsf{t}}\color{#595959}{\textsf{a}}\color{#474747}{\textsf{m}}\color{#383838}{\textsf{p}}\color{#2b2b2b}{\textsf{s}}\color{#2b2b2b}{\textsf{‎ and blinkies}}$ </summary>
