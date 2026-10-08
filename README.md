@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img width="450" height="196" alt="banner" src="https://i.postimg.cc/ZnqfvNZ4/a.png" />
+  <img width="800" alt="banner" src="https://i.postimg.cc/ZnqfvNZ4/a.png" />
 
   <br>
 </br>
@@ -111,4 +111,4 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 </p>
 </details>
 
-  <img width="450" height="196" alt="banner" src="https://i.postimg.cc/ZnqfvNZ4/a.png" />
+  <img width="800" alt="banner" src="https://i.postimg.cc/ZnqfvNZ4/a.png" />
