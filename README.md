@@ -1,4 +1,6 @@
-
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="center">
   <img width="450" height="196" alt="banner" src="https://i.postimg.cc/ZnqfvNZb/a.png" />
@@ -24,7 +26,14 @@
 <h6 align="center">
 
 
-<img  width="560" alt="gif" src="https://i.postimg.cc/Rhtp1Hqv/a.png" />
+<img  align="left" width="560" alt="gif" src="https://i.postimg.cc/Rhtp1Hqv/a.png" />
+
+
+${\color{#C98B5D}{\textsf 🦦}} \color{#C98B5D}{\textsf{ziggy}} \color{#C98B5D}{\textsf{or}}  \color{#C98B5D}{\textsf{richie, bear or eddie}}$
+<br/>
+${\color{#C98B5D}{\textsf he/him}} \color{#C98B5D}{\textsf{　꒱　}} \color{#C98B5D}{\textsf{ocd and other bullshit}}  \color{#C98B5D}{\textsf{brit}}$
+<br/>
+${\color{#C98B5D}{\textsf hi james}} \color{#C98B5D}{\textsf{stupid}} \color{#C98B5D}{\textsf{bear}}$
 
   <tr>
 <td>
@@ -42,20 +51,17 @@
 
   </details>
   </td>
+  
   </tr>
-
-
   <tr>
+    
 <td>
   <details>
   <summary> $\color{#a8a7a7}{\textsf{d}}\color{#757474}{\textsf{n}}\color{#595959}{\textsf{i}}$ </summary>
 $\color{#FFFFFF}{\textsf{under 16s}}$ <br>
 $\color{#FFFFFF}{\textsf{proshippers}}$ <br>
 $\color{#FFFFFF}{\textsf{darkshippers}}$ <br>
-$\color{#FFFFFF}{\textsf{hannigram shippers}}$ <br>
-$\color{#FFFFFF}{\textsf{regan shippers}}$ <br>
-$\color{#FFFFFF}{\textsf{bigots, racists}}$ <br>
-$\color{#D8DAD4}{\textsf{abusers}}$ <br>
+$\color{#FFFFFF}{\textsf{bigots, racists, abusers}}$ <br>
 $\color{#D8DAD4}{\textsf{pj ransone antis}}$ <br>
 $\color{#D8DAD4}{\textsf{religious people}}$ <br>
 $\color{#D8DAD4}{\textsf{political junkies}}$ <br>
@@ -86,6 +92,8 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <br/>
   <div align="center">
 
+<br>
+
 <p align="center">
   <a href="https://pjpupper.atabook.org/">
     <img width="120" alt="image" src="https://i.postimg.cc/brBHWFnZ/a.png" />
@@ -99,9 +107,11 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <br/>
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
   <br/>
+<br>
+<br>
+<br>
+<br>
 
   <details>
   <summary> $\color{#a8a7a7}{\textsf{s}}\color{#757474}{\textsf{t}}\color{#595959}{\textsf{a}}\color{#474747}{\textsf{m}}\color{#383838}{\textsf{p}}\color{#2b2b2b}{\textsf{s}}\color{#2b2b2b}{\textsf{‎ and blinkies}}$ </summary>
