@@ -17,16 +17,14 @@
 
 
 </div>
+
+<br>
+  
 <div align="center">
-
-
-
-<div align="center">
-
-<h6 align="center">
 
 <img  align="left" width="560" alt="gif" src="https://i.postimg.cc/Rhtp1Hqv/a.png" />
 
+</div>
 
 ${\color{#C98B5D}{\textsf 🦦}} \color{#C98B5D}{\textsf{ziggy}} \color{#C98B5D}{\textsf{or}}  \color{#C98B5D}{\textsf{richie, bear or eddie}}$
 <br/>
@@ -81,7 +79,6 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 
 
 </div>
-<br/>
 
 <div align="center">
   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎ 
@@ -99,9 +96,9 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 
 <p align="center">
   <a href="https://pjpupper.atabook.org/">
-    <img width="120" alt="image" src="https://i.postimg.cc/brBHWFnZ/a.png" />
+    <img width="90" alt="image" src="https://i.postimg.cc/brBHWFnZ/a.png" />
     <a href="https://pjpupper.straw.page/">
-    <img width="120" alt="image" src="https://i.postimg.cc/kGpFzhSt/a.png" />
+    <img width="90" alt="image" src="https://i.postimg.cc/kGpFzhSt/a.png" />
   </a>
 </p>
 
