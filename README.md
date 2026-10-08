@@ -1,4 +1,5 @@
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Road+Rage&size=27&pause=1000&color=62483C&center=true&width=435&lines=I'm+looking+inside+your+brain.;Christ+it's+a+cluttered+mess.;I+love+you+I+must+confess." alt="Typing SVG" /></a>
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=black&right_color=black&left_text=otters"/>
