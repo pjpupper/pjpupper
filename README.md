@@ -1,8 +1,11 @@
+
+
 <div align="center">
+  <img width="450" height="196" alt="banner" src="https://i.postimg.cc/ZnqfvNZb/a.png" />
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=black&right_color=black&left_text=otters"/>
 &
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=lightblue&color=black">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=C98B5D&color=black">
 
 
 
@@ -16,24 +19,48 @@
 <h6 align="center">
 
 
-<img width="600" height="450" alt="gif" src="https://iili.io/n0F1ecu.gif" />
+<img  alt="gif" src="https://i.postimg.cc/j2J71q4T/a.gif" />
 
-$\color{#FFFFFF}{\textsf{BFYI}}$ <br>
-
-<table>
   <tr>
-    <th>
+<td>
+  <details>
+  <summary> $\color{#a8a7a7}{\textsf{b}}\color{#757474}{\textsf{f}}\color{#595959}{\textsf{y}}\color{#474747}{\textsf{i}}$ </summary>
       $\color{#D8DAD4}{\textsf{c+h is fine, just don't be weird}}$ <br>
       $\color{#D8DAD4}{\textsf{usually always off tab so w2i}}$ <br>
       $\color{#D8DAD4}{\textsf{not super active}}$ <br>
       $\color{#FFFFFF}{\textsf{i swear a lot}}$ <br>
       $\color{#FFFFFF}{\textsf{pj ransone obsessed}}$ <br>
       $\color{#FFFFFF}{\textsf{bill hader lover}}$ <br>
+      $\color{#FFFFFF}{\textsf{i love the 1970s ok? ok}}$ <br>
       $\color{#FFFFFF}{\textsf{hippie}}$ <br>
-</th>
-</tr>
-</table>
+    <br>
 
+  </details>
+  </td>
+  </tr>
+
+  <tr>
+<td>
+  <details>
+  <summary> $\color{#a8a7a7}{\textsf{d}}\color{#757474}{\textsf{n}}\color{#595959}{\textsf{i}}$ </summary>
+$\color{#FFFFFF}{\textsf{under 16s}}$ <br>
+$\color{#FFFFFF}{\textsf{proshippers}}$ <br>
+$\color{#FFFFFF}{\textsf{darkshippers}}$ <br>
+$\color{#FFFFFF}{\textsf{hannigram shippers}}$ <br>
+$\color{#FFFFFF}{\textsf{regan shippers}}$ <br>
+$\color{#FFFFFF}{\textsf{bigots, racists}}$ <br>
+$\color{#D8DAD4}{\textsf{abusers}}$ <br>
+$\color{#D8DAD4}{\textsf{pj ransone antis}}$ <br>
+$\color{#D8DAD4}{\textsf{religious people}}$ <br>
+$\color{#D8DAD4}{\textsf{political junkies}}$ <br>
+$\color{#D8DAD4}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
+$\color{#D8DAD4}{\textsf{people who call themselves problematic}}$ <br>
+$\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
+    <br>
+
+  </details>
+  </td>
+  </tr>
 
 
 
@@ -53,27 +80,9 @@ $\color{#FFFFFF}{\textsf{BFYI}}$ <br>
   <br/>
   <div align="center">
 
-$\color{#FFFFFF}{\textsf{DNI}}$ <br>
 
-<table>
-  <tr>
-    <th>
-$\color{#FFFFFF}{\textsf{under 16s}}$ <br>
-$\color{#FFFFFF}{\textsf{proshippers}}$ <br>
-$\color{#FFFFFF}{\textsf{darkshippers}}$ <br>
-$\color{#FFFFFF}{\textsf{hannigram shippers}}$ <br>
-$\color{#FFFFFF}{\textsf{regan shippers}}$ <br>
-$\color{#FFFFFF}{\textsf{bigots, racists}}$ <br>
-$\color{#D8DAD4}{\textsf{abusers}}$ <br>
-$\color{#D8DAD4}{\textsf{pj ransone antis}}$ <br>
-$\color{#D8DAD4}{\textsf{religious people}}$ <br>
-$\color{#D8DAD4}{\textsf{political junkies}}$ <br>
-$\color{#D8DAD4}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
-$\color{#D8DAD4}{\textsf{people who call themselves problematic}}$ <br>
-$\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
-</th>
-</tr>
-</table>
+
+
 
 
 
@@ -101,3 +110,5 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <img src="https://external-media.spacehey.net/media/smduoJvnIpDbTRRoPN11q-yPEjye2Ka-reUZkW43d7-g=/https://64.media.tumblr.com/055ca80b2ae48ff1704b21cc520f35db/tumblr_inline_pdytkuHhaP1v11djx_500.gif"/> <img src="https://external-media.spacehey.net/media/svEUDn9K6StMnhrdOk2iGR_yNKympMqqSl4IXOWXw-pQ=/https://i.ibb.co/sJGN4k7/Tumblr-l-1535919032056470.gif"/>
 </p>
 </details>
+
+  <img width="450" height="196" alt="banner" src="https://i.postimg.cc/ZnqfvNZ4/a.png" />
