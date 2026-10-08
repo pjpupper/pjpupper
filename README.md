@@ -2,9 +2,14 @@
 
 <div align="center">
   <img width="450" height="196" alt="banner" src="https://i.postimg.cc/ZnqfvNZb/a.png" />
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&weight=600&size=16&pause=1000&color=C98B5D&center=true&width=435&lines=Hey%2C+boy%2C+you+better+bring+the+chick+around;To+the+sad%2C+sad%2C+truth%2C+the+dirty+lowdown+." alt="Typing SVG" /></a>
+</div>
+
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=black&right_color=black&left_text=otters"/>
-&
+<img width="10" height="15" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery02/6449f5b7.gif?v=3fc8f5cd" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=C98B5D&color=black">
 
 
