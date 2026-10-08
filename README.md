@@ -3,10 +3,6 @@
  <img width="800" alt="banner" src="https://i.postimg.cc/ZnqfvNZ4/a.png" />
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Road+Rage&size=29&duration=4000&pause=1000&color=62483C&center=true&width=435&lines=see+that+bird+sitting+on+my+window+sill%3F+;well+he's+saying+whippoorwill+all+the+night+through+..." alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=black&right_color=black&left_text=otters"/>
 <img width="10" height="15" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery02/6449f5b7.gif?v=3fc8f5cd" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=62483C&color=black">
