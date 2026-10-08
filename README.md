@@ -32,6 +32,11 @@
       $\color{#FFFFFF}{\textsf{i love the 1970s ok? ok}}$ <br>
       $\color{#FFFFFF}{\textsf{hippie}}$ <br>
     <br>
+    
+  </details>
+  </td>
+  </tr>
+
 
 <td>
   <details>
@@ -67,8 +72,6 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <br/>
   <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=62483C&interchange=false&profanity=false&bar_color=62483C&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <p align="center">
   <a href="https://pjpupper.atabook.org/">
     <img width="90" alt="image" src="https://i.postimg.cc/brBHWFnZ/a.png" />
@@ -79,8 +82,6 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 
 
 <div/>
-  <br/>
-
 
   <br/>
 
