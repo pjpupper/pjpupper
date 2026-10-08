@@ -28,12 +28,16 @@
 
 <img  align="left" width="560" alt="gif" src="https://i.postimg.cc/Rhtp1Hqv/a.png" />
 
-
+<h6 align="center">
 ${\color{#C98B5D}{\textsf 🦦}} \color{#C98B5D}{\textsf{ziggy}} \color{#C98B5D}{\textsf{or}}  \color{#C98B5D}{\textsf{richie, bear or eddie}}$
 <br/>
 ${\color{#C98B5D}{\textsf he/him}} \color{#C98B5D}{\textsf{　꒱　}} \color{#C98B5D}{\textsf{ocd and other bullshit}}  \color{#C98B5D}{\textsf{brit}}$
 <br/>
 ${\color{#C98B5D}{\textsf hi james}} \color{#C98B5D}{\textsf{stupid}} \color{#C98B5D}{\textsf{bear}}$
+
+<br>
+
+</br>
 
   <tr>
 <td>
