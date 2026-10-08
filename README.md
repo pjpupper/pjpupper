@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=black&right_color=black&left_text=otters"/>
 <img width="10" height="15" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery02/cdeb56bf.gif?v=3fc8f5cd" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=black&color=black">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=black&color=76432A">
 
 
 
@@ -33,6 +33,9 @@
       $\color{#FFFFFF}{\textsf{hippie}}$ <br>
     <br>
 
+  </details>
+  </td>
+  </tr>
 
 <td>
   <details>
