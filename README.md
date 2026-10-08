@@ -1,31 +1,36 @@
+
+
 <div align="center">
+  <img width="450" height="196" alt="banner" src="https://i.postimg.cc/ZnqfvNZb/a.png" />
+
+  <br>
+</br>
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=black&right_color=black&left_text=otters"/>
-<img width="10" height="15" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery02/cdeb56bf.gif?v=3fc8f5cd" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=black&color=76432A">
+<img width="10" height="15" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery02/6449f5b7.gif?v=3fc8f5cd" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=C98B5D&color=black">
 
-
+  <br>
+</br>
 
 </div>
-
-<br>
-  
 <div align="center">
 
-<img width="560" alt="gif" src="https://i.postimg.cc/Rhtp1Hqv/a.png" /> 
 
-<br>
 
-</br>
+<div align="center">
+<img  alt="gif" src="https://i.postimg.cc/j2J71q4T/a.gif" />
+
+
 
   <tr>
 <td>
   <details>
-  <summary> $\color{#a8a7a7}{\textsf{b}}\color{#757474}{\textsf{f}}\color{#2b2b2b}{\textsf{y}}\color{#2b2b2b}{\textsf{i}}$ </summary>
-      $\color{#76432A}{\textsf{c+h is fine, just don't be weird}}$ <br>
-      $\color{#76432A}{\textsf{usually always off tab so w2i}}$ <br>
-      $\color{#76432A}{\textsf{not super active}}$ <br>
+  <summary> $\color{#a8a7a7}{\textsf{b}}\color{#757474}{\textsf{f}}\color{#595959}{\textsf{y}}\color{#474747}{\textsf{i}}$ </summary>
+      $\color{#D8DAD4}{\textsf{c+h is fine, just don't be weird}}$ <br>
+      $\color{#D8DAD4}{\textsf{usually always off tab so w2i}}$ <br>
+      $\color{#D8DAD4}{\textsf{not super active}}$ <br>
       $\color{#FFFFFF}{\textsf{i swear a lot}}$ <br>
       $\color{#FFFFFF}{\textsf{pj ransone obsessed}}$ <br>
       $\color{#FFFFFF}{\textsf{bill hader lover}}$ <br>
@@ -37,19 +42,24 @@
   </td>
   </tr>
 
+
+  <tr>
 <td>
   <details>
-  <summary> $\color{#a8a7a7}{\textsf{d}}\color{#757474}{\textsf{n}}\color{#2b2b2b}{\textsf{i}}$ </summary>
+  <summary> $\color{#a8a7a7}{\textsf{d}}\color{#757474}{\textsf{n}}\color{#595959}{\textsf{i}}$ </summary>
 $\color{#FFFFFF}{\textsf{under 16s}}$ <br>
 $\color{#FFFFFF}{\textsf{proshippers}}$ <br>
 $\color{#FFFFFF}{\textsf{darkshippers}}$ <br>
-$\color{#FFFFFF}{\textsf{bigots, racists, abusers}}$ <br>
+$\color{#FFFFFF}{\textsf{hannigram shippers}}$ <br>
+$\color{#FFFFFF}{\textsf{regan shippers}}$ <br>
+$\color{#FFFFFF}{\textsf{bigots, racists}}$ <br>
+$\color{#D8DAD4}{\textsf{abusers}}$ <br>
 $\color{#D8DAD4}{\textsf{pj ransone antis}}$ <br>
 $\color{#D8DAD4}{\textsf{religious people}}$ <br>
 $\color{#D8DAD4}{\textsf{political junkies}}$ <br>
-$\color{#76432A}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
-$\color{#76432A}{\textsf{people who call themselves problematic}}$ <br>
-$\color{#76432A}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
+$\color{#D8DAD4}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
+$\color{#D8DAD4}{\textsf{people who call themselves problematic}}$ <br>
+$\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
     <br>
 
   </details>
@@ -57,22 +67,37 @@ $\color{#76432A}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   </tr>
 
 
-</div> ‎ 
+
+
+</div>
+<br/>
+
+<div align="center">
+  ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎ 
 
 
 <br/>
 <div align="center">
 
+<div/>
+<br/>
+  <br/>
+  <div align="center">
+
 <p align="center">
   <a href="https://pjpupper.atabook.org/">
-    <img width="90" alt="image" src="https://i.postimg.cc/43RTMVrx/A.png" />
+    <img width="120" alt="image" src="https://i.postimg.cc/brBHWFnZ/a.png" />
     <a href="https://pjpupper.straw.page/">
-    <img width="90" alt="image" src="https://i.postimg.cc/3wQH6mPw/a.png" />
+    <img width="120" alt="image" src="https://i.postimg.cc/kGpFzhSt/a.png" />
   </a>
 </p>
 
 
 <div/>
+  <br/>
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   <br/>
 
@@ -93,3 +118,4 @@ $\color{#76432A}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 </p>
 </details>
 
+  <img width="450" height="196" alt="banner" src="https://i.postimg.cc/ZnqfvNZ4/a.png" />
