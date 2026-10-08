@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=black&right_color=black&left_text=otters"/>
-<img width="10" height="15" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery02/6449f5b7.gif?v=3fc8f5cd" />
+<img width="10" height="15" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery02/cdeb56bf.gif?v=3fc8f5cd" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=62483C&color=black">
 
 
@@ -33,12 +33,6 @@
       $\color{#FFFFFF}{\textsf{hippie}}$ <br>
     <br>
 
-  </details>
-  </td>
-  
-  </tr>
-  <tr>
-    
 <td>
   <details>
   <summary> $\color{#a8a7a7}{\textsf{d}}\color{#757474}{\textsf{n}}\color{#595959}{\textsf{i}}$ </summary>
@@ -73,6 +67,8 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <br/>
   <div align="center">
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=62483C&interchange=false&profanity=false&bar_color=62483C&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <p align="center">
   <a href="https://pjpupper.atabook.org/">
     <img width="90" alt="image" src="https://i.postimg.cc/brBHWFnZ/a.png" />
@@ -84,8 +80,7 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 
 <div/>
   <br/>
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=C98B5D&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
   <br/>
 
