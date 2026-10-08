@@ -3,9 +3,6 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="center">
-  <img width="850" alt="banner" src="https://i.postimg.cc/ZnqfvNZb/a.png" />
-
-<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&weight=600&size=16&pause=1000&color=C98B5D&center=true&width=435&lines=Hey%2C+boy%2C+you+better+bring+the+chick+around;To+the+sad%2C+sad%2C+truth%2C+the+dirty+lowdown+." alt="Typing SVG" /></a>
 </div>
 
@@ -22,8 +19,7 @@
   
 <div align="center">
 
-<img  align="left" width="530" alt="gif" src="https://i.postimg.cc/Rhtp1Hqv/a.png" /> 
-<img width="200" alt="gif" src="https://i.postimg.cc/Hx9RF5dF/a.png" />
+<img width="530" alt="gif" src="https://i.postimg.cc/Rhtp1Hqv/a.png" /> 
 
 <br>
 
