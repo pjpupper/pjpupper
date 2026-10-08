@@ -1,7 +1,5 @@
 <div align="center">
 
- <img width="800" alt="banner" src="https://i.postimg.cc/ZnqfvNZ4/a.png" />
-
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=black&right_color=black&left_text=otters"/>
 <img width="10" height="15" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery02/6449f5b7.gif?v=3fc8f5cd" />
@@ -108,4 +106,3 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 </p>
 </details>
 
-  <img width="800" alt="banner" src="https://i.postimg.cc/ZnqfvNZ4/a.png" />
