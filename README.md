@@ -15,8 +15,6 @@
 
 <img width="560" alt="gif" src="https://i.postimg.cc/Rhtp1Hqv/a.png" /> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Road+Rage&size=27&letterSpacing=1&pause=1000&color=000000&background=BBBBBB13&center=true&width=435&lines=I'm+looking+inside+your+brain.;Christ+it's+a+cluttered+mess.;I+love+you+I+must+confess." alt="Typing SVG" /></a>
-
 <br>
 
 </br>
