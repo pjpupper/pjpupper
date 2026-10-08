@@ -1,8 +1,6 @@
 <div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=C98B5D&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<img width="670" alt="image" src="https://64.media.tumblr.com/bd1663c7fdb1d9051632116f5ef14d5d/27fd09713c6cb266-88/s2048x3072/4caaaf7c28c3b0b36da018b0eba01ca7bbe117b5.pnj" /> 
+ <img width="800" alt="banner" src="https://i.postimg.cc/ZnqfvNZ4/a.png" />
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&weight=600&size=16&pause=1000&color=C98B5D&center=true&width=435&lines=Hey%2C+boy%2C+you+better+bring+the+chick+around;To+the+sad%2C+sad%2C+truth%2C+the+dirty+lowdown+." alt="Typing SVG" /></a>
@@ -92,7 +90,8 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 
 <div/>
   <br/>
-
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=C98B5D&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   <br/>
 
@@ -113,4 +112,4 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 </p>
 </details>
 
-  <img width="450" height="196" alt="banner" src="https://i.postimg.cc/ZnqfvNZ4/a.png" />
+  <img width="800" alt="banner" src="https://i.postimg.cc/ZnqfvNZ4/a.png" />
