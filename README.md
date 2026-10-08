@@ -23,7 +23,7 @@
 <div align="center">
 
 <img  align="left" width="530" alt="gif" src="https://i.postimg.cc/Rhtp1Hqv/a.png" /> 
-<img width="340" alt="gif" src="https://i.postimg.cc/Hx9RF5dF/a.png" />
+<img width="200" alt="gif" src="https://i.postimg.cc/Hx9RF5dF/a.png" />
 
 <br>
 
