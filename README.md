@@ -23,9 +23,9 @@
 <td>
   <details>
   <summary> $\color{#a8a7a7}{\textsf{b}}\color{#757474}{\textsf{f}}\color{#2b2b2b}{\textsf{y}}\color{#2b2b2b}{\textsf{i}}$ </summary>
-      $\color{#A46946}{\textsf{c+h is fine, just don't be weird}}$ <br>
-      $\color{#A46946}{\textsf{usually always off tab so w2i}}$ <br>
-      $\color{#A46946}{\textsf{not super active}}$ <br>
+      $\color{#76432A}{\textsf{c+h is fine, just don't be weird}}$ <br>
+      $\color{#76432A}{\textsf{usually always off tab so w2i}}$ <br>
+      $\color{#76432A}{\textsf{not super active}}$ <br>
       $\color{#FFFFFF}{\textsf{i swear a lot}}$ <br>
       $\color{#FFFFFF}{\textsf{pj ransone obsessed}}$ <br>
       $\color{#FFFFFF}{\textsf{bill hader lover}}$ <br>
@@ -44,9 +44,9 @@ $\color{#FFFFFF}{\textsf{bigots, racists, abusers}}$ <br>
 $\color{#D8DAD4}{\textsf{pj ransone antis}}$ <br>
 $\color{#D8DAD4}{\textsf{religious people}}$ <br>
 $\color{#D8DAD4}{\textsf{political junkies}}$ <br>
-$\color{#A46946}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
-$\color{#A46946}{\textsf{people who call themselves problematic}}$ <br>
-$\color{#A46946}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
+$\color{#76432A}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
+$\color{#76432A}{\textsf{people who call themselves problematic}}$ <br>
+$\color{#76432A}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
     <br>
 
   </details>
@@ -70,9 +70,9 @@ $\color{#A46946}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 
 <p align="center">
   <a href="https://pjpupper.atabook.org/">
-    <img width="90" alt="image" src="https://i.postimg.cc/brBHWFnZ/a.png" />
+    <img width="90" alt="image" src="https://i.postimg.cc/43RTMVrx/A.png" />
     <a href="https://pjpupper.straw.page/">
-    <img width="90" alt="image" src="https://i.postimg.cc/kGpFzhSt/a.png" />
+    <img width="90" alt="image" src="https://i.postimg.cc/3wQH6mPw/a.png" />
   </a>
 </p>
 
