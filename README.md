@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=black&right_color=black&left_text=otters"/>
 <img width="10" height="15" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery02/cdeb56bf.gif?v=3fc8f5cd" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=62483C&color=black">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=A46946&color=black">
 
 
 
@@ -22,10 +22,10 @@
   <tr>
 <td>
   <details>
-  <summary> $\color{#a8a7a7}{\textsf{b}}\color{#757474}{\textsf{f}}\color{#595959}{\textsf{y}}\color{#474747}{\textsf{i}}$ </summary>
-      $\color{#D8DAD4}{\textsf{c+h is fine, just don't be weird}}$ <br>
-      $\color{#D8DAD4}{\textsf{usually always off tab so w2i}}$ <br>
-      $\color{#D8DAD4}{\textsf{not super active}}$ <br>
+  <summary> $\color{#a8a7a7}{\textsf{b}}\color{#757474}{\textsf{f}}\color{#A46946}{\textsf{y}}\color{#A46946}{\textsf{i}}$ </summary>
+      $\color{#A46946}{\textsf{c+h is fine, just don't be weird}}$ <br>
+      $\color{#A46946}{\textsf{usually always off tab so w2i}}$ <br>
+      $\color{#A46946}{\textsf{not super active}}$ <br>
       $\color{#FFFFFF}{\textsf{i swear a lot}}$ <br>
       $\color{#FFFFFF}{\textsf{pj ransone obsessed}}$ <br>
       $\color{#FFFFFF}{\textsf{bill hader lover}}$ <br>
@@ -40,7 +40,7 @@
 
 <td>
   <details>
-  <summary> $\color{#a8a7a7}{\textsf{d}}\color{#757474}{\textsf{n}}\color{#595959}{\textsf{i}}$ </summary>
+  <summary> $\color{#A46946}{\textsf{d}}\color{#A46946}{\textsf{n}}\color{#595959}{\textsf{i}}$ </summary>
 $\color{#FFFFFF}{\textsf{under 16s}}$ <br>
 $\color{#FFFFFF}{\textsf{proshippers}}$ <br>
 $\color{#FFFFFF}{\textsf{darkshippers}}$ <br>
@@ -48,9 +48,9 @@ $\color{#FFFFFF}{\textsf{bigots, racists, abusers}}$ <br>
 $\color{#D8DAD4}{\textsf{pj ransone antis}}$ <br>
 $\color{#D8DAD4}{\textsf{religious people}}$ <br>
 $\color{#D8DAD4}{\textsf{political junkies}}$ <br>
-$\color{#D8DAD4}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
-$\color{#D8DAD4}{\textsf{people who call themselves problematic}}$ <br>
-$\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
+$\color{#A46946}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
+$\color{#A46946}{\textsf{people who call themselves problematic}}$ <br>
+$\color{#A46946}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
     <br>
 
   </details>
