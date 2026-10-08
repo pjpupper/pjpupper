@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=black&right_color=black&left_text=otters"/>
 <img width="10" height="15" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery02/cdeb56bf.gif?v=3fc8f5cd" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=A46946&color=black">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=black&color=black">
 
 
 
@@ -22,7 +22,7 @@
   <tr>
 <td>
   <details>
-  <summary> $\color{#a8a7a7}{\textsf{b}}\color{#757474}{\textsf{f}}\color{#A46946}{\textsf{y}}\color{#A46946}{\textsf{i}}$ </summary>
+  <summary> $\color{#a8a7a7}{\textsf{b}}\color{#757474}{\textsf{f}}\color{#2b2b2b}{\textsf{y}}\color{#2b2b2b}{\textsf{i}}$ </summary>
       $\color{#A46946}{\textsf{c+h is fine, just don't be weird}}$ <br>
       $\color{#A46946}{\textsf{usually always off tab so w2i}}$ <br>
       $\color{#A46946}{\textsf{not super active}}$ <br>
@@ -40,7 +40,7 @@
 
 <td>
   <details>
-  <summary> $\color{#A46946}{\textsf{d}}\color{#A46946}{\textsf{n}}\color{#595959}{\textsf{i}}$ </summary>
+  <summary> $\color{#a8a7a7}{\textsf{d}}\color{#757474}{\textsf{n}}\color{#2b2b2b}{\textsf{i}}$ </summary>
 $\color{#FFFFFF}{\textsf{under 16s}}$ <br>
 $\color{#FFFFFF}{\textsf{proshippers}}$ <br>
 $\color{#FFFFFF}{\textsf{darkshippers}}$ <br>
