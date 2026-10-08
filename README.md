@@ -24,7 +24,7 @@
 <h6 align="center">
 
 
-<img  alt="gif" src="https://i.postimg.cc/j2J71q4T/a.gif" />
+<img  width="560" alt="gif" src="https://i.postimg.cc/WbrxgQJf/a.png" />
 
   <tr>
 <td>
