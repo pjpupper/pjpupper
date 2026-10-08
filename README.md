@@ -54,19 +54,11 @@ $\color{#76432A}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   </tr>
 
 
-</div>
-
-<div align="center">
-  ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎ 
+</div> ‎ 
 
 
 <br/>
 <div align="center">
-
-<div/>
-<br/>
-  <br/>
-  <div align="center">
 
 <p align="center">
   <a href="https://pjpupper.atabook.org/">
