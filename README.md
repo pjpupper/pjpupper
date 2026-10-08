@@ -32,10 +32,6 @@
       $\color{#FFFFFF}{\textsf{i love the 1970s ok? ok}}$ <br>
       $\color{#FFFFFF}{\textsf{hippie}}$ <br>
     <br>
-    
-  </details>
-  </td>
-  </tr>
 
 
 <td>
