@@ -20,7 +20,7 @@
 
 
 <div align="center">
-<img  alt="gif" src="https://i.postimg.cc/j2J71q4T/a.gif" />
+<img  width= "500" alt="gif" src="https://i.postimg.cc/bNHyh69M/a.gif" />
 
 
 
