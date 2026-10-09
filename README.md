@@ -2,11 +2,6 @@
 
 <div align="center">
 
-<img alt="gif" src="https://i.postimg.cc/668sQyW6/a.png" />
-  <br>
-</br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Road+Rage&size=39&pause=1000&color=B3BD21&center=true&width=435&lines=I'LL+STOP+THE+WORLD+AND+MELT+WITH+YOU.;YOU'VE+SEEN+THE+DIFFERENCE%2C;AND+IT'S+GETTING+BETTER+ALL+THE+TIME.;THERE'S+NOTHING+YOU+AND+I+WON'T+DO.;I'LL+STOP+THE+WORLD+AND+MELT+WITH+YOU!" alt="Typing SVG" /></a>
 
 
 <div align="center">
