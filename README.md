@@ -2,13 +2,17 @@
 
 <div align="center">
 
+<img alt="gif" src="https://i.postimg.cc/668sQyW6/a.png" />
   <br>
 </br>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Road+Rage&size=39&pause=1000&color=B3BD21&center=true&width=435&lines=I'LL+STOP+THE+WORLD+AND+MELT+WITH+YOU.;YOU'VE+SEEN+THE+DIFFERENCE%2C;AND+IT'S+GETTING+BETTER+ALL+THE+TIME.;THERE'S+NOTHING+YOU+AND+I+WON'T+DO.;I'LL+STOP+THE+WORLD+AND+MELT+WITH+YOU!" alt="Typing SVG" /></a>
+
+
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper.pjpupper&left_color=black&right_color=black&left_text=otters"/>
-<img width="10" height="15" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery02/6449f5b7.gif?v=3fc8f5cd" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=C98B5D&color=black">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper&left_color=%23B3BD21&right_color=%23D5CCA5&left_text=otters" alt="otters visitor badge"/>
+<img width="20" alt="gif" src="https://i.postimg.cc/s2mDYtbK/IMG-3256.png" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=B3BD21&color=D5CCA5">
 
   <br>
 </br>
@@ -19,7 +23,7 @@
 
 
 <div align="center">
-<img  width= "500" alt="gif" src="https://i.postimg.cc/N0yv5bRh/a.gif" />
+<img  width= "500" alt="image" src="https://i.postimg.cc/x1HMjTmf/a.png" />
 
 
 
@@ -75,9 +79,9 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 
 <p align="center">
   <a href="https://pjpupper.atabook.org/">
-    <img width="120" alt="image" src="https://i.postimg.cc/brBHWFnZ/a.png" />
+    <img width="120" alt="image" src="https://i.postimg.cc/1tLvXRH2/a.png" />
     <a href="https://pjpupper.straw.page/">
-    <img width="120" alt="image" src="https://i.postimg.cc/kGpFzhSt/a.png" />
+    <img width="120" alt="image" src="https://i.postimg.cc/C1Wc5MNQ/a.png" />
   </a>
 </p>
 
