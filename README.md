@@ -4,9 +4,9 @@
 
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper&left_color=%23B3BD21&right_color=%23D5CCA5&left_text=otters" alt="otters visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper&left_text=otters&left_color=%235E7C10&right_color=%23D5CCA5&format=true" alt="visitor badge"/>
 <img width="20" alt="gif" src="https://i.postimg.cc/s2mDYtbK/IMG-3256.png" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=B3BD21&color=D5CCA5">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=5E7C10&color=D5CCA5">
 
   <br>
 </br>
@@ -71,9 +71,8 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 
   <div align="center">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=17&pause=1000&color=5E7C10&center=true&width=435&lines=I+want+your+things+in+my+room%2C+I+miss+you+all+of+the+time.;I+stalk+myself+on+the+internet+just+to+see+what+you'll+find.;I+want+your+things+in+my+room%2C+I+miss+you+all+of+the+time.;You+make+it+look+so+easy%2C+leaving+everything+behind." alt="Typing SVG" /></a>
 
-  <br>
-</br>
 
 <p align="center">
   <a href="https://pjpupper.atabook.org/">
