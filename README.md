@@ -82,7 +82,7 @@
       </a>
     </td>
     <td>
-      <a href="https://rentry.co/bloomedgladiolus">
+      <a href="https://rentry.co/pjpupper">
         <img width="120" src="https://i.postimg.cc/K8C93L6B/a.png" />
     </td>
     <td>
