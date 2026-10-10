@@ -82,17 +82,8 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   </a>
 </p>
 
-  <br>
-</br>
-
-<div align="center">
-  ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎ 
-
-
 
 <div/>
-  <br/>
-  <br>
 </br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=black&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
