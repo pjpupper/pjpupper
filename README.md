@@ -68,7 +68,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=17&pause=1000&color=5E7C10&center=true&width=435&lines=I+want+your+things+in+my+room%2C+I+miss+you+all+of+the+time.;I+stalk+myself+on+the+internet+just+to+see+what+you'll+find.;I+want+your+things+in+my+room%2C+I+miss+you+all+of+the+time.;You+make+it+look+so+easy%2C+leaving+everything+behind." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=17&pause=1000&color=5E7C10&center=true&width=435&lines=I'll+stop+the+world+and+melt+with+you.;You've+seen+the+difference%2C;and+it's+getting+better+all+the+time.;There's+nothing+you+and+I+won't+do.;I'll+stop+the+world+and+melt+with+you." alt="Typing SVG" /></a>
 
 
 
