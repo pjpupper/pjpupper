@@ -49,7 +49,6 @@
         $\color{#D5CCA5}{\textsf{bigots, racists, abusers}}$ <br>
         $\color{#D5CCA5}{\textsf{pj ransone antis}}$ <br>
         $\color{#D5CCA5}{\textsf{religious people}}$ <br>
-        $\color{#D5CCA5}{\textsf{political junkies}}$ <br>
         $\color{#D5CCA5}{\textsf{myra kaspbrak haters}}$ <br>
         $\color{#D5CCA5}{\textsf{people who call themselves problematic}}$ <br>
         $\color{#D5CCA5}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
