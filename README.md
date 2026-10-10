@@ -82,7 +82,8 @@
       </a>
     </td>
     <td>
-      <img width="70" src="https://i.postimg.cc/1zSTXDhy/a.png" />
+      <a href="https://rentry.co/bloomedgladiolus">
+        <img width="120" src="https://i.postimg.cc/K8C93L6B/a.png" />
     </td>
     <td>
       <a href="https://pjpupper.straw.page/">
