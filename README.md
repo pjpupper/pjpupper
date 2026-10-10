@@ -5,7 +5,6 @@
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper&left_text=otters&left_color=%235E7C10&right_color=%23D5CCA5&format=true" alt="visitor badge"/>
-<img width="20" alt="gif" src="https://i.postimg.cc/s2mDYtbK/IMG-3256.png" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=5E7C10&color=D5CCA5">
 
   <br>
@@ -21,47 +20,54 @@
 
 
 
+
+
+
+
+<table align="center">
   <tr>
-<td>
-  <details>
-  <summary> $\color{#a8a7a7}{\textsf{b}}\color{#757474}{\textsf{f}}\color{#595959}{\textsf{y}}\color{#474747}{\textsf{i}}$ </summary>
-      $\color{#D8DAD4}{\textsf{c+h is fine, just don't be weird}}$ <br>
-      $\color{#D8DAD4}{\textsf{usually always off tab so w2i}}$ <br>
-      $\color{#D8DAD4}{\textsf{not super active}}$ <br>
-      $\color{#FFFFFF}{\textsf{i swear a lot}}$ <br>
-      $\color{#FFFFFF}{\textsf{pj ransone obsessed}}$ <br>
-      $\color{#FFFFFF}{\textsf{bill hader lover}}$ <br>
-      $\color{#FFFFFF}{\textsf{i love the 1970s ok? ok}}$ <br>
-      $\color{#FFFFFF}{\textsf{hippie}}$ <br>
-    <br>
-
-  </details>
-  </td>
+    <td valign="top">
+      <details>
+<summary>
+  $\color{#5E7C10}{\textsf{b}}\color{#829044}{\textsf{f}}\color{#A6B078}{\textsf{y}}\color{#D5CCA5}{\textsf{i}}$
+</summary>
+        $\color{#D5CCA5}{\textsf{c+h is fine, just don't be weird}}$ <br>
+        $\color{#D5CCA5}{\textsf{usually always off tab so w2i}}$ <br>
+        $\color{#D5CCA5}{\textsf{not super active}}$ <br>
+        $\color{#D5CCA5}{\textsf{i swear a lot}}$ <br>
+        $\color{#D5CCA5}{\textsf{pj ransone obsessed}}$ <br>
+        $\color{#D5CCA5}{\textsf{bill hader lover}}$ <br>
+        $\color{#D5CCA5}{\textsf{i love the 1970s ok? ok}}$ <br>
+        $\color{#D5CCA5}{\textsf{hippie}}$ <br>
+      </details>
+    </td>
+    <td align="center" valign="middle">
+      <img width="20" alt="gif" src="https://i.postimg.cc/s2mDYtbK/IMG-3256.png" />
+    </td>
+    <td valign="top">
+      <details>
+<summary>
+  $\color{#5E7C10}{\textsf{d}}\color{#8B9851}{\textsf{n}}\color{#D5CCA5}{\textsf{i}}$
+</summary>
+        $\color{#D5CCA5}{\textsf{under 16s}}$ <br>
+        $\color{#D5CCA5}{\textsf{proshippers}}$ <br>
+        $\color{#D5CCA5}{\textsf{darkshippers}}$ <br>
+        $\color{#D5CCA5}{\textsf{hannigram shippers}}$ <br>
+        $\color{#D5CCA5}{\textsf{regan shippers}}$ <br>
+        $\color{#D5CCA5}{\textsf{bigots, racists}}$ <br>
+        $\color{#D5CCA5}{\textsf{abusers}}$ <br>
+        $\color{#D5CCA5}{\textsf{pj ransone antis}}$ <br>
+        $\color{#D5CCA5}{\textsf{religious people}}$ <br>
+        $\color{#D5CCA5}{\textsf{political junkies}}$ <br>
+        $\color{#D5CCA5}{\textsf{myra kaspbrak dehumanisers}}$ <br>
+        $\color{#D5CCA5}{\textsf{people who call themselves problematic}}$ <br>
+        $\color{#D5CCA5}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
+      </details>
+    </td>
   </tr>
+</table>
 
 
-  <tr>
-<td>
-  <details>
-  <summary> $\color{#a8a7a7}{\textsf{d}}\color{#757474}{\textsf{n}}\color{#595959}{\textsf{i}}$ </summary>
-$\color{#FFFFFF}{\textsf{under 16s}}$ <br>
-$\color{#FFFFFF}{\textsf{proshippers}}$ <br>
-$\color{#FFFFFF}{\textsf{darkshippers}}$ <br>
-$\color{#FFFFFF}{\textsf{hannigram shippers}}$ <br>
-$\color{#FFFFFF}{\textsf{regan shippers}}$ <br>
-$\color{#FFFFFF}{\textsf{bigots, racists}}$ <br>
-$\color{#D8DAD4}{\textsf{abusers}}$ <br>
-$\color{#D8DAD4}{\textsf{pj ransone antis}}$ <br>
-$\color{#D8DAD4}{\textsf{religious people}}$ <br>
-$\color{#D8DAD4}{\textsf{political junkies}}$ <br>
-$\color{#D8DAD4}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
-$\color{#D8DAD4}{\textsf{people who call themselves problematic}}$ <br>
-$\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
-    <br>
-
-  </details>
-  </td>
-  </tr>
 
 
 
@@ -74,13 +80,31 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=17&pause=1000&color=5E7C10&center=true&width=435&lines=I+want+your+things+in+my+room%2C+I+miss+you+all+of+the+time.;I+stalk+myself+on+the+internet+just+to+see+what+you'll+find.;I+want+your+things+in+my+room%2C+I+miss+you+all+of+the+time.;You+make+it+look+so+easy%2C+leaving+everything+behind." alt="Typing SVG" /></a>
 
 
-<p align="center">
-  <a href="https://pjpupper.atabook.org/">
-    <img width="120" alt="image" src="https://i.postimg.cc/1tLvXRH2/a.png" />
-    <a href="https://pjpupper.straw.page/">
-    <img width="120" alt="image" src="https://i.postimg.cc/C1Wc5MNQ/a.png" />
-  </a>
-</p>
+
+
+
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://pjpupper.atabook.org/">
+        <img width="120" src="https://i.postimg.cc/Z5bpqq7x/a.png" />
+      </a>
+    </td>
+    <td>
+      <img width="70" src="https://i.postimg.cc/1zSTXDhy/a.png" />
+    </td>
+    <td>
+      <a href="https://pjpupper.straw.page/">
+        <img width="120" src="https://i.postimg.cc/HkYXLLZ2/a.png" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 <div/>
