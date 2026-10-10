@@ -3,9 +3,9 @@
   <br>
   </br>
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jamesransone&left_text=otters&left_color=%235E7C10&right_color=%23D5CCA5&format=true" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper&left_text=otters&left_color=%235E7C10&right_color=%23D5CCA5&format=true" alt="visitor badge"/>
 <img src="https://imgur.com/tfK3dgY.png">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/jamesransone?style=flat&label=losersclub&labelColor=5E7C10&color=D5CCA5">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=5E7C10&color=D5CCA5">
 
 </div>
 <div align="center">
