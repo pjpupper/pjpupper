@@ -12,10 +12,7 @@
 
 
 <div align="center">
-<img  width= "500" alt="image" src="https://i.postimg.cc/x1HMjTmf/a.png" />
-
-
-
+<img  width= "500" alt="image" src="https://i.postimg.cc/YS1vfKsh/a.png" />
 
 
 
