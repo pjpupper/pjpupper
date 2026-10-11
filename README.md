@@ -36,7 +36,7 @@
       </details>
     </td>
     <td align="center" valign="middle">
-      <img width="20" alt="gif" src="https://i.ibb.co/YF0dvfp8/508c414d-1.gif" />
+      <img width="20" alt="gif" src="https://i.ibb.co/gbrs88Vz/Firefly-Remove-Background.png" />
     </td>
     <td valign="top">
       <details>
