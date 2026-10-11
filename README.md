@@ -1,11 +1,11 @@
 <div align="center">
-<img width= "500" alt="image" src="https://i.postimg.cc/pdYd5Qmm/a.png" />
+<img width= "500" alt="image" src="https://i.postimg.cc/fbWwjqqY/a.png" />
   <br>
   </br>
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper&left_text=otters&left_color=%235E7C10&right_color=%23D5CCA5&format=true" alt="visitor badge"/>
-<img src="https://imgur.com/tfK3dgY.png">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=5E7C10&color=D5CCA5">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper&left_text=otters&left_color=%black&right_color=%23D5CCA5&format=true" alt="visitor badge"/>
+<img src="https://i.postimg.cc/WpGHTp1t/a.gif">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=black&color=D5CCA5">
   
 </div>
 <div align="center">
@@ -23,7 +23,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#5E7C10}{\textsf{b}}\color{#829044}{\textsf{f}}\color{#A6B078}{\textsf{y}}\color{#D5CCA5}{\textsf{i}}$
+  $\color{#3A100D}{\textsf{b}}\color{#76251D}{\textsf{f}}\color{#B74735}{\textsf{y}}\color{#D6A078}{\textsf{i}}$
 </summary>
         $\color{#D5CCA5}{\textsf{c+h is fine, just don't be weird}}$ <br>
         $\color{#D5CCA5}{\textsf{usually always off tab so w2i}}$ <br>
@@ -36,12 +36,12 @@
       </details>
     </td>
     <td align="center" valign="middle">
-      <img width="20" alt="gif" src="https://i.postimg.cc/s2mDYtbK/IMG-3256.png" />
+      <img width="20" alt="gif" src="https://i.postimg.cc/wx1DQ0nb/a.png" />
     </td>
     <td valign="top">
       <details>
 <summary>
-  $\color{#5E7C10}{\textsf{d}}\color{#8B9851}{\textsf{n}}\color{#D5CCA5}{\textsf{i}}$
+  $\color{#D6A078}{\textsf{d}}\color{#B74735}{\textsf{n}}\color{#76251D}{\textsf{i}}$
 </summary>
         $\color{#D5CCA5}{\textsf{under 16s}}$ <br>
         $\color{#D5CCA5}{\textsf{proshippers}}$ <br>
@@ -67,7 +67,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=17&pause=1000&color=5E7C10&center=true&width=435&lines=I'll+stop+the+world+and+melt+with+you.;You've+seen+the+difference%2C;and+it's+getting+better+all+the+time.;There's+nothing+you+and+I+won't+do.;I'll+stop+the+world+and+melt+with+you." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=17&duration=4000&pause=500&color=D5CCA5&center=true&width=435&lines=FAME+IS+A+GUN+AND+I+POINT+IT+BLIND+!;CRASH%2C+AND+BURN%2C+GIRL%2C+BABY+SWALLOW+IT+DRY+!;YOU'VE+GOT+A+FRONT+ROW+SEAT%2C+AND+I%2C;I+GOT+A+TASTE+OF+THE+GLAMOROUS+LIFE." alt="Typing SVG" /></a>
 
 
 
@@ -78,16 +78,16 @@
   <tr>
     <td>
       <a href="https://pjpupper.atabook.org/">
-        <img width="120" src="https://i.postimg.cc/Z5bpqq7x/a.png" />
+        <img width="120" src="https://i.postimg.cc/d3hR7Bcj/a.png" />
       </a>
     </td>
     <td>
       <a href="https://rentry.co/pjpupper">
-        <img width="120" src="https://i.postimg.cc/K8C93L6B/a.png" />
+        <img width="120" src="https://i.postimg.cc/0jzG6f1d/a.png" />
     </td>
     <td>
       <a href="https://pjpupper.straw.page/">
-        <img width="120" src="https://i.postimg.cc/HkYXLLZ2/a.png" />
+        <img width="120" src="https://i.postimg.cc/sxMPBcCp/a.png" />
       </a>
     </td>
   </tr>
@@ -107,7 +107,9 @@
   <br/>
 
   <details>
-<summary> $\color{#5E7C10}{\textsf{s}}\color{#71832B}{\textsf{t}}\color{#829044}{\textsf{a}}\color{#96A05E}{\textsf{m}}\color{#A6B078}{\textsf{p}}\color{#C0BE8F}{\textsf{s}}\color{#D5CCA5}{\textsf{‎ and blinkies}}$ </summary>
+<summary>
+  $\color{#3A100D}{\textsf{s}}\color{#581A16}{\textsf{t}}\color{#76251D}{\textsf{a}}\color{#963729}{\textsf{m}}\color{#B74735}{\textsf{p}}\color{#C96D55}{\textsf{s}}\color{#D6A078}{\textsf{‎ and blinkies}}$
+</summary>
   <p align="center">
   </p>
  <p align="center">
