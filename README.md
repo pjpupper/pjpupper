@@ -23,7 +23,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#3A100D}{\textsf{b}}\color{#76251D}{\textsf{f}}\color{#B74735}{\textsf{y}}\color{#D6A078}{\textsf{i}}$
+  $\color{#000000}{\textsf{b}}\color{#544F3F}{\textsf{f}}\color{#8C8368}{\textsf{y}}\color{#D5CCA5}{\textsf{i}}$
 </summary>
         $\color{#D5CCA5}{\textsf{c+h is fine, just don't be weird}}$ <br>
         $\color{#D5CCA5}{\textsf{usually always off tab so w2i}}$ <br>
@@ -36,12 +36,12 @@
       </details>
     </td>
     <td align="center" valign="middle">
-      <img width="20" alt="gif" src="https://i.postimg.cc/wx1DQ0nb/a.png" />
+      <img width="20" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery10/508c414d.gif?v=3fc8f5cd" />
     </td>
     <td valign="top">
       <details>
 <summary>
-  $\color{#D6A078}{\textsf{d}}\color{#B74735}{\textsf{n}}\color{#76251D}{\textsf{i}}$
+  $\color{#D5CCA5}{\textsf{d}}\color{#8C8368}{\textsf{n}}\color{#38352A}{\textsf{i}}$
 </summary>
         $\color{#D5CCA5}{\textsf{under 16s}}$ <br>
         $\color{#D5CCA5}{\textsf{proshippers}}$ <br>
