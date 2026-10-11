@@ -1,5 +1,5 @@
 <div align="center">
-<img width= "500" alt="image" src="https://i.postimg.cc/pdYd5Qmm/a.png" />
+<img width= "500" alt="image" src="https://files.catbox.moe/zyv1ez.png" />
   <br>
   </br>
 <div align="center">
@@ -78,16 +78,16 @@
   <tr>
     <td>
       <a href="https://pjpupper.atabook.org/">
-        <img width="120" src="https://files.catbox.moe/kbl318.png" />
+        <img width="120" src="https://files.catbox.moe/zp53lz.png" />
       </a>
     </td>
     <td>
       <a href="https://rentry.co/pjpupper">
-        <img width="120" src="https://files.catbox.moe/dvfi78.png" />
+        <img width="120" src="https://files.catbox.moe/pvxmlj.png" />
     </td>
     <td>
       <a href="https://pjpupper.straw.page/">
-        <img width="120" src="https://files.catbox.moe/slj1kp.png" />
+        <img width="120" src="https://files.catbox.moe/l9pfco.png" />
       </a>
     </td>
   </tr>
