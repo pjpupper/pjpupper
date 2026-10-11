@@ -108,7 +108,7 @@
 
   <details>
 <summary>
-  $\color{#3A100D}{\textsf{s}}\color{#581A16}{\textsf{t}}\color{#76251D}{\textsf{a}}\color{#963729}{\textsf{m}}\color{#B74735}{\textsf{p}}\color{#C96D55}{\textsf{s}}\color{#D6A078}{\textsf{‎ and blinkies}}$
+  $\color{#000000}{\textsf{s}}\color{#38352A}{\textsf{t}}\color{#544F3F}{\textsf{a}}\color{#706953}{\textsf{m}}\color{#8C8368}{\textsf{p}}\color{#B6AA87}{\textsf{s}}\color{#D5CCA5}{\textsf{‎ and blinkies}}$
 </summary>
   <p align="center">
   </p>
