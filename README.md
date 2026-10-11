@@ -1,5 +1,5 @@
 <div align="center">
-<img width= "500" alt="image" src="https://i.postimg.cc/DybDHQ4W/a.png" />
+<img width= "500" alt="image" src="https://i.ibb.co/RTsTBMFQ/image-2024-05-23-234849497-1-1.png" />
   <br>
   </br>
 <div align="center">
@@ -36,7 +36,7 @@
       </details>
     </td>
     <td align="center" valign="middle">
-      <img width="20" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery10/508c414d.gif?v=3fc8f5cd" />
+      <img width="20" alt="gif" src="https://i.ibb.co/YF0dvfp8/508c414d-1.gif" />
     </td>
     <td valign="top">
       <details>
