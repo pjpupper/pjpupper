@@ -67,7 +67,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=17&duration=4000&pause=500&color=855F15&center=true&width=435&lines=FAME+IS+A+GUN+AND+I+POINT+IT+BLIND+!;CRASH%2C+AND+BURN%2C+GIRL%2C+BABY+SWALLOW+IT+DRY+!;YOU'VE+GOT+A+FRONT+ROW+SEAT%2C+AND+I%2C;I+GOT+A+TASTE+OF+THE+GLAMOROUS+LIFE." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=17&duration=4000&pause=500&color=FFFFFF&center=true&width=435&lines=FAME+IS+A+GUN+AND+I+POINT+IT+BLIND+!;CRASH%2C+AND+BURN%2C+GIRL%2C+BABY+SWALLOW+IT+DRY+!;YOU'VE+GOT+A+FRONT+ROW+SEAT%2C+AND+I%2C;I+GOT+A+TASTE+OF+THE+GLAMOROUS+LIFE." alt="Typing SVG" /></a>
 
 
 
@@ -78,16 +78,16 @@
   <tr>
     <td>
       <a href="https://pjpupper.atabook.org/">
-        <img width="120" src="https://i.postimg.cc/d3hR7Bcj/a.png" />
+        <img width="120" src="https://files.catbox.moe/kbl318.png" />
       </a>
     </td>
     <td>
       <a href="https://rentry.co/pjpupper">
-        <img width="120" src="https://i.postimg.cc/0jzG6f1d/a.png" />
+        <img width="120" src="https://files.catbox.moe/dvfi78.png" />
     </td>
     <td>
       <a href="https://pjpupper.straw.page/">
-        <img width="120" src="https://i.postimg.cc/sxMPBcCp/a.png" />
+        <img width="120" src="https://files.catbox.moe/slj1kp.png" />
       </a>
     </td>
   </tr>
