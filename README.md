@@ -67,7 +67,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=17&duration=4000&pause=500&color=D5CCA5&center=true&width=435&lines=FAME+IS+A+GUN+AND+I+POINT+IT+BLIND+!;CRASH%2C+AND+BURN%2C+GIRL%2C+BABY+SWALLOW+IT+DRY+!;YOU'VE+GOT+A+FRONT+ROW+SEAT%2C+AND+I%2C;I+GOT+A+TASTE+OF+THE+GLAMOROUS+LIFE." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=17&duration=4000&pause=500&color=855F15&center=true&width=435&lines=FAME+IS+A+GUN+AND+I+POINT+IT+BLIND+!;CRASH%2C+AND+BURN%2C+GIRL%2C+BABY+SWALLOW+IT+DRY+!;YOU'VE+GOT+A+FRONT+ROW+SEAT%2C+AND+I%2C;I+GOT+A+TASTE+OF+THE+GLAMOROUS+LIFE." alt="Typing SVG" /></a>
 
 
 
