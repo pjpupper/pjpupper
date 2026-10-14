@@ -23,7 +23,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#000000}{\textsf{b}}\color{#544F3F}{\textsf{f}}\color{#8C8368}{\textsf{y}}\color{#D5CCA5}{\textsf{i}}$
+  $\color{#15060E}{\textsf{b}}\color{#44203A}{\textsf{f}}\color{#743052}{\textsf{y}}\color{#A53562}{\textsf{i}}\color{#C65783}{\textsf{.}}\color{#FA7CA5}{\textsf{.}}$
 </summary>
         $\color{#D5CCA5}{\textsf{c+h is fine, just don't be weird}}$ <br>
         $\color{#D5CCA5}{\textsf{usually always off tab so w2i}}$ <br>
@@ -41,7 +41,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#D5CCA5}{\textsf{d}}\color{#8C8368}{\textsf{n}}\color{#38352A}{\textsf{i}}$
+  $\color{#15060E}{\textsf{d}}\color{#A53562}{\textsf{n}}\color{#FA7CA5}{\textsf{i}}$
 </summary>
         $\color{#D5CCA5}{\textsf{under 16s}}$ <br>
         $\color{#D5CCA5}{\textsf{proshippers}}$ <br>
@@ -108,7 +108,7 @@
 
   <details>
 <summary>
-  $\color{#000000}{\textsf{s}}\color{#38352A}{\textsf{t}}\color{#544F3F}{\textsf{a}}\color{#706953}{\textsf{m}}\color{#8C8368}{\textsf{p}}\color{#B6AA87}{\textsf{s}}\color{#D5CCA5}{\textsf{‎ and blinkies}}$
+  $\color{#15060E}{\textsf{s}}\color{#3A142A}{\textsf{t}}\color{#5E2241}{\textsf{a}}\color{#823057}{\textsf{m}}\color{#A53562}{\textsf{p}}\color{#D45A85}{\textsf{s}}\color{#FA7CA5}{\textsf{‎ and blinkies}}$
 </summary>
   <p align="center">
   </p>
