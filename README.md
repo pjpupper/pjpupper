@@ -4,7 +4,7 @@
   </br>
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper&left_text=otters&left_color=%black&right_color=%black&format=true" alt="visitor badge"/>
-<img src="https://gifcity.carrd.co/assets/images/gallery266/63c4fd6f.gif?v=3fc8f5cd">
+<img src="https://files.catbox.moe/dmowhs.gif">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=black&color=black">
   
 </div>
@@ -37,7 +37,7 @@
       </details>
     </td>
     <td align="center" valign="middle">
-      <img width="20" alt="gif" src="https://files.catbox.moe/dmowhs.gif" />
+      <img width="20" alt="gif" src="https://files.catbox.moe/rrjsbc.png" />
     </td>
     <td valign="top">
       <details>
@@ -79,16 +79,16 @@
   <tr>
     <td>
       <a href="https://pjpupper.atabook.org/">
-        <img width="70" src="https://files.catbox.moe/rl0h98.png" />
+        <img width="70" src="https://files.catbox.moe/57grw0.png" />
       </a>
     </td>
     <td>
       <a href="https://rentry.co/pjpupper">
-        <img width="70" src="https://files.catbox.moe/lrnk5l.png" />
+        <img width="70" src="https://files.catbox.moe/mqq1vu.png" />
     </td>
     <td>
       <a href="https://pjpupper.straw.page/">
-        <img width="70" src="https://files.catbox.moe/g9idm3.png" />
+        <img width="70" src="https://files.catbox.moe/corw5b.png" />
       </a>
     </td>
   </tr>
