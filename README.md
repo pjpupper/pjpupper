@@ -13,7 +13,7 @@
 
 
 <div align="center">
-<img  width= "450" alt="image" src="https://files.catbox.moe/0atwe1.png" />
+<img  width= "200" alt="image" src="https://files.catbox.moe/0atwe1.png" />
 
 
 
