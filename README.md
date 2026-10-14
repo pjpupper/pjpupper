@@ -67,7 +67,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=18&duration=6000&pause=100&color=D0455C&center=true&vCenter=true&width=435&lines=give+me+your+hand%2C+i'll+give+you+my+mind.;it's+a+fair+exchange+if+you're+deaf%2C+dumb+and+blind." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=18&duration=6000&pause=100&color=E6D9BE&center=true&vCenter=true&width=435&lines=give+me+your+hand%2C+i'll+give+you+my+mind.;it's+a+fair+exchange+if+you're+deaf%2C+dumb+and+blind." alt="Typing SVG" /></a>
 
 
 
