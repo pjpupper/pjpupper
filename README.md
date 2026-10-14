@@ -1,5 +1,5 @@
 <div align="center">
-<img width= "300" alt="image" src="https://files.catbox.moe/q38mjf.png" />
+<img width= "300" alt="image" src="https://files.catbox.moe/znb1c4.png" />
   <br>
   </br>
 <div align="center">
@@ -37,7 +37,7 @@
       </details>
     </td>
     <td align="center" valign="middle">
-      <img width="20" alt="gif" src="https://files.catbox.moe/7rrb7i.png" />
+      <img width="20" alt="gif" src="https://files.catbox.moe/dmowhs.gif" />
     </td>
     <td valign="top">
       <details>
