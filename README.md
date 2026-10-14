@@ -26,14 +26,14 @@
 <summary>
   $\color{#C07143}{\textsf{b}}\color{#D18A61}{\textsf{f}}\color{#E2A982}{\textsf{y}}\color{#F2C7A8}{\textsf{i}}$
 </summary>
-        $\color{#d8cfa7}{\textsf{c+h is fine, just don't be weird}}$ <br>
-        $\color{#d8cfa7}{\textsf{usually always off tab so w2i}}$ <br>
-        $\color{#d8cfa7}{\textsf{not super active}}$ <br>
-        $\color{#d8cfa7}{\textsf{i swear a lot}}$ <br>
-        $\color{#d8cfa7}{\textsf{pj ransone obsessed}}$ <br>
-        $\color{#d8cfa7}{\textsf{bill hader lover}}$ <br>
-        $\color{#d8cfa7}{\textsf{i love the 1970s ok? ok}}$ <br>
-        $\color{#d8cfa7}{\textsf{hippie}}$ <br>
+        $\color{#C19170}{\textsf{c+h is fine, just don't be weird}}$ <br>
+        $\color{#C19170}{\textsf{usually always off tab so w2i}}$ <br>
+        $\color{#C19170}{\textsf{not super active}}$ <br>
+        $\color{#C19170}{\textsf{i swear a lot}}$ <br>
+        $\color{#C19170}{\textsf{pj ransone obsessed}}$ <br>
+        $\color{#C19170}{\textsf{bill hader lover}}$ <br>
+        $\color{#C19170}{\textsf{i love the 1970s ok? ok}}$ <br>
+        $\color{#C19170}{\textsf{hippie}}$ <br>
       </details>
     </td>
     <td align="center" valign="middle">
@@ -44,15 +44,15 @@
 <summary>
   $\color{#C07143}{\textsf{d}}\color{#E2A982}{\textsf{n}}\color{#FBE5D5}{\textsf{i}}$
 </summary>
-        $\color{#d8cfa7}{\textsf{under 16s}}$ <br>
-        $\color{#d8cfa7}{\textsf{proshippers}}$ <br>
-        $\color{#d8cfa7}{\textsf{darkshippers}}$ <br>
-        $\color{#d8cfa7}{\textsf{bigots, racists, abusers}}$ <br>
-        $\color{#d8cfa7}{\textsf{pj ransone antis}}$ <br>
-        $\color{#d8cfa7}{\textsf{religious people}}$ <br>
-        $\color{#d8cfa7}{\textsf{myra kaspbrak haters}}$ <br>
-        $\color{#d8cfa7}{\textsf{people who call themselves problematic}}$ <br>
-        $\color{#d8cfa7}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
+        $\color{#C19170}{\textsf{under 16s}}$ <br>
+        $\color{#C19170}{\textsf{proshippers}}$ <br>
+        $\color{#C19170}{\textsf{darkshippers}}$ <br>
+        $\color{#C19170}{\textsf{bigots, racists, abusers}}$ <br>
+        $\color{#C19170}{\textsf{pj ransone antis}}$ <br>
+        $\color{#C19170}{\textsf{religious people}}$ <br>
+        $\color{#C19170}{\textsf{myra kaspbrak haters}}$ <br>
+        $\color{#C19170}{\textsf{people who call themselves problematic}}$ <br>
+        $\color{#C19170}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
       </details>
     </td>
   </tr>
