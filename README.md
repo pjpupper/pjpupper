@@ -22,8 +22,9 @@
   <tr>
     <td valign="top">
       <details>
+      
 <summary>
-  $\color{#3A101A}{\textsf{b}}\color{#64202F}{\textsf{f}}\color{#8A3043}{\textsf{y}}\color{#D0455C}{\textsf{i}}$
+  $\color{#C07143}{\textsf{b}}\color{#D18A61}{\textsf{f}}\color{#E2A982}{\textsf{y}}\color{#F2C7A8}{\textsf{i}}$
 </summary>
         $\color{#FFD6DC}{\textsf{c+h is fine, just don't be weird}}$ <br>
         $\color{#FFD6DC}{\textsf{usually always off tab so w2i}}$ <br>
@@ -36,12 +37,12 @@
       </details>
     </td>
     <td align="center" valign="middle">
-      <img width="20" alt="gif" src="https://files.catbox.moe/iv1quc.png" />
+      <img width="20" alt="gif" src="https://files.catbox.moe/rrjsbc.png" />
     </td>
     <td valign="top">
       <details>
 <summary>
-  $\color{#3A101A}{\textsf{d}}\color{#D0455C}{\textsf{n}}\color{#FFD6DC}{\textsf{i}}$
+  $\color{#C07143}{\textsf{d}}\color{#E2A982}{\textsf{n}}\color{#FBE5D5}{\textsf{i}}$
 </summary>
         $\color{#FFD6DC}{\textsf{under 16s}}$ <br>
         $\color{#FFD6DC}{\textsf{proshippers}}$ <br>
@@ -67,7 +68,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=18&duration=6000&pause=100&color=E6D9BE&center=true&vCenter=true&width=435&lines=give+me+your+hand%2C+i'll+give+you+my+mind.;it's+a+fair+exchange+if+you're+deaf%2C+dumb+and+blind." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=18&duration=6000&pause=100&color=C19170&center=true&vCenter=true&width=435&lines=give+me+your+hand%2C+i'll+give+you+my+mind.;it's+a+fair+exchange+if+you're+deaf%2C+dumb+and+blind." alt="Typing SVG" /></a>
 
 
 
@@ -108,7 +109,7 @@
 
   <details>
 <summary>
-  $\color{#3A101A}{\textsf{s}}\color{#64202F}{\textsf{t}}\color{#8A3043}{\textsf{a}}\color{#D0455C}{\textsf{m}}\color{#E16B7D}{\textsf{p}}\color{#F0A0AC}{\textsf{s}}\color{#FFD6DC}{\textsf{‎ and blinkies}}$
+  $\color{#C07143}{\textsf{s}}\color{#CC8053}{\textsf{t}}\color{#D9956D}{\textsf{a}}\color{#E2A982}{\textsf{m}}\color{#EAB999}{\textsf{p}}\color{#F2C7A8}{\textsf{s}}\color{#FBE5D5}{\textsf{‎ and blinkies}}$
 </summary>
   <p align="center">
   </p>
