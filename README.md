@@ -23,7 +23,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#15060E}{\textsf{b}}\color{#44203A}{\textsf{f}}\color{#743052}{\textsf{y}}\color{#A53562}{\textsf{i}}\color{#C65783}{\textsf{.}}\color{#FA7CA5}{\textsf{.}}$
+  $\color{#3A101A}{\textsf{b}}\color{#64202F}{\textsf{f}}\color{#8A3043}{\textsf{y}}\color{#D0455C}{\textsf{i}}$
 </summary>
         $\color{#D5CCA5}{\textsf{c+h is fine, just don't be weird}}$ <br>
         $\color{#D5CCA5}{\textsf{usually always off tab so w2i}}$ <br>
@@ -41,7 +41,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#15060E}{\textsf{d}}\color{#A53562}{\textsf{n}}\color{#FA7CA5}{\textsf{i}}$
+  $\color{#3A101A}{\textsf{d}}\color{#D0455C}{\textsf{n}}\color{#FFD6DC}{\textsf{i}}$
 </summary>
         $\color{#D5CCA5}{\textsf{under 16s}}$ <br>
         $\color{#D5CCA5}{\textsf{proshippers}}$ <br>
@@ -67,7 +67,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=18&duration=6000&pause=100&color=FA7CA5&center=true&vCenter=true&width=435&lines=give+me+your+hand%2C+i'll+give+you+my+mind.;it's+a+fair+exchange+if+you're+deaf%2C+dumb+and+blind." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=18&duration=6000&pause=100&color=D0455C&center=true&vCenter=true&width=435&lines=give+me+your+hand%2C+i'll+give+you+my+mind.;it's+a+fair+exchange+if+you're+deaf%2C+dumb+and+blind." alt="Typing SVG" /></a>
 
 
 
@@ -108,7 +108,7 @@
 
   <details>
 <summary>
-  $\color{#15060E}{\textsf{s}}\color{#3A142A}{\textsf{t}}\color{#5E2241}{\textsf{a}}\color{#823057}{\textsf{m}}\color{#A53562}{\textsf{p}}\color{#D45A85}{\textsf{s}}\color{#FA7CA5}{\textsf{‎ and blinkies}}$
+  $\color{#3A101A}{\textsf{s}}\color{#64202F}{\textsf{t}}\color{#8A3043}{\textsf{a}}\color{#D0455C}{\textsf{m}}\color{#E16B7D}{\textsf{p}}\color{#F0A0AC}{\textsf{s}}\color{#FFD6DC}{\textsf{‎ and blinkies}}$
 </summary>
   <p align="center">
   </p>
