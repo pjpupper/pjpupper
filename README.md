@@ -4,7 +4,7 @@
   </br>
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pjpupper&left_text=otters&left_color=%black&right_color=%black&format=true" alt="visitor badge"/>
-<img src="https://gifcity.carrd.co/assets/images/gallery89/6995fd78.gif?v=3fc8f5cd">
+<img src="https://files.catbox.moe/npsrxf.gif">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=losersclub&labelColor=black&color=black">
   
 </div>
