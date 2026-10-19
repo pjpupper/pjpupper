@@ -24,14 +24,14 @@
 <summary>
   $\color{#080812}{\textsf{b}}\color{#2B1028}{\textsf{f}}\color{#701B32}{\textsf{y}}\color{#B7474A}{\textsf{i}}$
 </summary>
-        $\color{#B7474A}{\textsf{c+h is fine, just don't be weird}}$ <br>
-        $\color{#B7474A}{\textsf{usually always off tab so w2i}}$ <br>
-        $\color{#B7474A}{\textsf{not super active}}$ <br>
-        $\color{#B7474A}{\textsf{i swear a lot}}$ <br>
-        $\color{#B7474A}{\textsf{pj ransone obsessed}}$ <br>
-        $\color{#B7474A}{\textsf{bill hader lover}}$ <br>
-        $\color{#B7474A}{\textsf{i love the 1970s ok? ok}}$ <br>
-        $\color{#B7474A}{\textsf{hippie}}$ <br>
+        $\color{#F3C58D}{\textsf{c+h is fine, just don't be weird}}$ <br>
+        $\color{#F3C58D}{\textsf{usually always off tab so w2i}}$ <br>
+        $\color{#F3C58D}{\textsf{not super active}}$ <br>
+        $\color{#F3C58D}{\textsf{i swear a lot}}$ <br>
+        $\color{#F3C58D}{\textsf{pj ransone obsessed}}$ <br>
+        $\color{#F3C58D}{\textsf{bill hader lover}}$ <br>
+        $\color{#F3C58D}{\textsf{i love the 1970s ok? ok}}$ <br>
+        $\color{#F3C58D}{\textsf{hippie}}$ <br>
       </details>
     </td>
     <td align="center" valign="middle">
@@ -42,15 +42,15 @@
 <summary>
   $\color{#080812}{\textsf{d}}\color{#701B32}{\textsf{n}}\color{#F3C58D}{\textsf{i}}$
 </summary>
-        $\color{#B7474A}{\textsf{under 16s}}$ <br>
-        $\color{#B7474A}{\textsf{proshippers}}$ <br>
-        $\color{#B7474A}{\textsf{darkshippers}}$ <br>
-        $\color{#B7474A}{\textsf{bigots, racists, abusers}}$ <br>
-        $\color{#B7474A}{\textsf{pj ransone antis}}$ <br>
-        $\color{#B7474A}{\textsf{religious people}}$ <br>
-        $\color{#B7474A}{\textsf{myra kaspbrak haters}}$ <br>
-        $\color{#B7474A}{\textsf{people who call themselves problematic}}$ <br>
-        $\color{#B7474A}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
+        $\color{#F3C58D}{\textsf{under 16s}}$ <br>
+        $\color{#F3C58D}{\textsf{proshippers}}$ <br>
+        $\color{#F3C58D}{\textsf{darkshippers}}$ <br>
+        $\color{#F3C58D}{\textsf{bigots, racists, abusers}}$ <br>
+        $\color{#F3C58D}{\textsf{pj ransone antis}}$ <br>
+        $\color{#F3C58D}{\textsf{religious people}}$ <br>
+        $\color{#F3C58D}{\textsf{myra kaspbrak haters}}$ <br>
+        $\color{#F3C58D}{\textsf{people who call themselves problematic}}$ <br>
+        $\color{#F3C58D}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
       </details>
     </td>
   </tr>
@@ -66,7 +66,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=18&duration=6000&pause=100&color=B7474A&center=true&vCenter=true&width=435&lines=give+me+your+hand%2C+i'll+give+you+my+mind.;it's+a+fair+exchange+if+you're+deaf%2C+dumb+and+blind." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=18&duration=6000&pause=100&color=F3C58D&center=true&vCenter=true&width=435&lines=give+me+your+hand%2C+i'll+give+you+my+mind.;it's+a+fair+exchange+if+you're+deaf%2C+dumb+and+blind." alt="Typing SVG" /></a>
 
 
 
