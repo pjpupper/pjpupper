@@ -66,7 +66,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=17&duration=4000&pause=1000&color=F3C58D&center=true&vCenter=true&width=435&lines=half+the+math%2C+double+the+myth%2C+they+told+you+to.;no+aftertaste%2C+no+residue%2C+chop+chop%2C+you're+through." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=17&duration=4000&pause=1000&color=F9F5CF&center=true&vCenter=true&width=435&lines=half+the+math%2C+double+the+myth%2C+they+told+you+to.;no+aftertaste%2C+no+residue%2C+chop+chop%2C+you're+through." alt="Typing SVG" /></a>
 
 
 
