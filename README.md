@@ -77,16 +77,16 @@
   <tr>
     <td>
       <a href="https://pjpupper.atabook.org/">
-        <img width="70" src="https://files.catbox.moe/57grw0.png" />
+        <img width="70" src="https://files.catbox.moe/z330kw.png" />
       </a>
     </td>
     <td>
       <a href="https://rentry.co/pjpupper">
-        <img width="70" src="https://files.catbox.moe/mqq1vu.png" />
+        <img width="70" src="https://files.catbox.moe/55rzta.png" />
     </td>
     <td>
       <a href="https://pjpupper.straw.page/">
-        <img width="70" src="https://files.catbox.moe/corw5b.png" />
+        <img width="70" src="https://files.catbox.moe/sca9lh.png" />
       </a>
     </td>
   </tr>
