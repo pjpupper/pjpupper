@@ -31,6 +31,7 @@
         $\color{#F9F5CF}{\textsf{pj ransone obsessed}}$ <br>
         $\color{#F9F5CF}{\textsf{bill hader lover}}$ <br>
         $\color{#F9F5CF}{\textsf{i love the 1970s ok? ok}}$ <br>
+        $\color{#F9F5CF}{\textsf{i love the early 2000s ok? ok}}$ <br>
         $\color{#F9F5CF}{\textsf{hippie}}$ <br>
       </details>
     </td>
