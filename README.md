@@ -92,7 +92,7 @@
     </td>
     <td>
       <a href="https://pjpupper.straw.page/">
-        <img width="70" src="https://i.postimg.cc/T2CJ73dY/a.png" />
+        <img width="70" src="https://i.postimg.cc/4NHH6fmg/a.png" />
     </td>
   </tr>
 </table>
