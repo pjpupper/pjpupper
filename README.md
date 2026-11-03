@@ -90,6 +90,10 @@
         <img width="70" src="https://files.catbox.moe/sca9lh.png" />
       </a>
     </td>
+    <td>
+      <a href="https://pjpupper.straw.page/">
+        <img width="70" src="https://i.postimg.cc/T2CJ73dY/a.png" />
+    </td>
   </tr>
 </table>
 
