@@ -65,7 +65,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=18&duration=3986&pause=7&color=866DE0&center=true&vCenter=true&width=435&lines=promiscuous+girl%2C+you're+teasin'+me.;you+know+what+i+want%2C;and+i+got+what+you+need!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=18&duration=3986&pause=7&color=a573fd&center=true&vCenter=true&width=435&lines=promiscuous+girl%2C+you're+teasin'+me.;you+know+what+i+want%2C;and+i+got+what+you+need!" alt="Typing SVG" /></a>
 
 
 
