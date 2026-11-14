@@ -39,7 +39,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#080812}{\textsf{d}}\color{#701B32}{\textsf{n}}\color{#98283B}{\textsf{i}}$
+  $\color{#000000}{\textsf{d}}\color{#5C1D42}{\textsf{n}}\color{#B83984}{\textsf{i}}$
 </summary>
         $\color{#F9F5CF}{\textsf{under 16s}}$ <br>
         $\color{#F9F5CF}{\textsf{proshippers}}$ <br>
@@ -110,7 +110,7 @@
 
   <details>
 <summary>
-  $\color{#080812}{\textsf{s}}\color{#17101F}{\textsf{t}}\color{#2B1028}{\textsf{a}}\color{#4A142C}{\textsf{m}}\color{#701B32}{\textsf{p}}\color{#98283B}{\textsf{s}}\color{#B7474A}{\textsf{ and }}\color{#D8895E}{\textsf{b}}\color{#E9A66F}{\textsf{l}}\color{#F3C58D}{\textsf{i}}\color{#FFE5B5}{\textsf{nkies}}$
+  $\color{#080812}{\textsf{s}}\color{#1A121E}{\textsf{t}}\color{#2D1B2A}{\textsf{a}}\color{#482438}{\textsf{m}}\color{#6E334E}{\textsf{p}}\color{#934969}{\textsf{s}}\color{#B3657D}{\textsf{ and }}\color{#CD8C8A}{\textsf{b}}\color{#E0B4A2}{\textsf{l}}\color{#EED7BD}{\textsf{i}}\color{#FFE5B5}{\textsf{nkies}}$
 </summary>
   <p align="center">
   </p>
