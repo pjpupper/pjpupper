@@ -1,5 +1,5 @@
 <div align="center">
-<img width= "350" alt="image" src="https://files.catbox.moe/c3dnay.png" />
+<img width= "350" alt="image" src="https://i.postimg.cc/qq0wPSXq/a.png" />
   <br>
   </br>
 <div align="center">
@@ -11,9 +11,7 @@
 
 
 <div align="center">
-<img  width= "470" alt="image" src="https://i.postimg.cc/vHVzSPyN/a.png" />
-
-
+<img width= "550" alt="image" src="https://files.catbox.moe/u9w7bd.png" />
 
 
 <table align="center">
@@ -67,7 +65,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3986&pause=7&color=F9F5CF&center=true&vCenter=true&width=435&lines=this+world+is+evil+enough%2C;without+you+in+it.;i've+had+about+enough+of+this+shit%2C;but+it+just+keeps+on+spinnin';manifest+destiny%2C;this+land+is+our+land%2C;scorch+the+sky%2C;and+paint+it+dry.;its+1983%2C;satanic+panic!;the+people+you+fight%2C;you+will+delight." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aleo&size=18&duration=3986&pause=7&color=866DE0&center=true&vCenter=true&width=435&lines=promiscuous+girl%2C+you're+teasin'+me.;you+know+what+i+want%2C;and+i+got+what+you+need!" alt="Typing SVG" /></a>
 
 
 
@@ -78,21 +76,21 @@
   <tr>
     <td>
       <a href="https://pjpupper.atabook.org/">
-        <img width="70" src="https://files.catbox.moe/z330kw.png" />
+        <img width="70" src="https://files.catbox.moe/kufufk.png" />
       </a>
     </td>
     <td>
       <a href="https://rentry.co/pjpupper">
-        <img width="70" src="https://files.catbox.moe/55rzta.png" />
+        <img width="70" src="https://files.catbox.moe/a3ne5q.png" />
     </td>
     <td>
       <a href="https://passportdex.com/pjpupper">
-        <img width="70" src="https://files.catbox.moe/sca9lh.png" />
+        <img width="70" src="https://files.catbox.moe/81ol70.png" />
       </a>
     </td>
     <td>
       <a href="https://pjpupper.straw.page/">
-        <img width="70" src="https://i.postimg.cc/4NHH6fmg/a.png" />
+        <img width="70" src="https://files.catbox.moe/1jkdfz.png" />
     </td>
   </tr>
 </table>
