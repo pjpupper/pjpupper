@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<img width= "550" alt="image" src="https://i.postimg.cc/44rC2b0p/a.gif" />
+<img width= "250" alt="image" src="https://i.postimg.cc/44rC2b0p/a.gif" />
 
 
 <table align="center">
