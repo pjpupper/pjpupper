@@ -110,7 +110,7 @@
 
   <details>
 <summary>
-  $\color{#080812}{\textsf{s}}\color{#1A121E}{\textsf{t}}\color{#2D1B2A}{\textsf{a}}\color{#482438}{\textsf{m}}\color{#6E334E}{\textsf{p}}\color{#934969}{\textsf{s}}\color{#B3657D}{\textsf{ and }}\color{#CD8C8A}{\textsf{b}}\color{#E0B4A2}{\textsf{l}}\color{#EED7BD}{\textsf{i}}\color{#FFE5B5}{\textsf{nkies}}$
+  $\color{#000000}{\textsf{s}}\color{#130C1C}{\textsf{t}}\color{#261838}{\textsf{a}}\color{#392353}{\textsf{m}}\color{#4C2F6F}{\textsf{p}}\color{#5B3A8D}{\textsf{s}}\color{#6B45AB}{\textsf{ and }}\color{#7A51C8}{\textsf{b}}\color{#8A5CE6}{\textsf{l}}\color{#847BE8}{\textsf{i}}\color{#7E9AEB}{\textsf{n}}\color{#78B8ED}{\textsf{k}}\color{#72D7F0}{\textsf{ies}}$
 </summary>
   <p align="center">
   </p>
