@@ -20,17 +20,17 @@
       <details>
       
 <summary>
-  $\color{#FED5FE}{\textsf{b}}\color{#FED5FE}{\textsf{f}}\color{#FED5FE}{\textsf{y}}\color{#FED5FE}{\textsf{i}}$
+  $\color{#F9F2CD}{\textsf{b}}\color{#F9F2CD}{\textsf{f}}\color{#F9F2CD}{\textsf{y}}\color{#F9F2CD}{\textsf{i}}$
 </summary>
-        $\color{#FEC8FE}{\textsf{c+h is fine, just don't be weird}}$ <br>
-        $\color{#FEC8FE}{\textsf{usually always off tab so w2i}}$ <br>
-        $\color{#FEC8FE}{\textsf{not super active}}$ <br>
-        $\color{#FEC8FE}{\textsf{i swear a lot}}$ <br>
-        $\color{#FEC8FE}{\textsf{pj ransone obsessed}}$ <br>
-        $\color{#FEC8FE}{\textsf{bill hader lover}}$ <br>
-        $\color{#FEC8FE}{\textsf{i love the 1970s ok? ok}}$ <br>
-        $\color{#FEC8FE}{\textsf{i love the early 2000s ok? ok}}$ <br>
-        $\color{#FEC8FE}{\textsf{hippie}}$ <br>
+        $\color{#F9F2CD}{\textsf{c+h is fine, just don't be weird}}$ <br>
+        $\color{#F9F2CD}{\textsf{usually always off tab so w2i}}$ <br>
+        $\color{#F9F2CD}{\textsf{not super active}}$ <br>
+        $\color{#F9F2CD}{\textsf{i swear a lot}}$ <br>
+        $\color{#F9F2CD}{\textsf{pj ransone obsessed}}$ <br>
+        $\color{#F9F2CD}{\textsf{bill hader lover}}$ <br>
+        $\color{#F9F2CD}{\textsf{i love the 1970s ok? ok}}$ <br>
+        $\color{#F9F2CD}{\textsf{i love the early 2000s ok? ok}}$ <br>
+        $\color{#F9F2CD}{\textsf{hippie}}$ <br>
       </details>
     </td>
     <td align="center" valign="middle">
