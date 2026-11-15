@@ -1,5 +1,5 @@
 <div align="center">
-<img width= "350" alt="image" src="https://i.postimg.cc/ZYr8xRp5/image-2024-05-23-230252175.png" />
+<img width= "350" alt="image" src="https://files.catbox.moe/jzjvrg.png" />
   <br>
   </br>
 <div align="center">
