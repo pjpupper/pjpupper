@@ -66,7 +66,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&size=18&duration=3986&pause=7&color=b87ecf&center=true&vCenter=true&width=435&lines=and+I+say+just+go%2C;please%2C+dave%2C+just+drive!;+get+us+as+far+as+far+can+be%2C;get+us+away+from+tonight!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&size=18&duration=3986&pause=7&color=BE95B2&center=true&vCenter=true&width=435&lines=and+I+say+just+go%2C;please%2C+dave%2C+just+drive!;+get+us+as+far+as+far+can+be%2C;get+us+away+from+tonight!" alt="Typing SVG" /></a>
 
 
 
@@ -111,7 +111,7 @@
 
   <details>
 <summary>
-  $\color{#0d0711}{\textsf{s}}\color{#180e22}{\textsf{t}}\color{#251634}{\textsf{a}}\color{#352048}{\textsf{m}}\color{#472c5e}{\textsf{p}}\color{#5b3874}{\textsf{s}}\color{#70468b}{\textsf{ and }}\color{#8756a2}{\textsf{b}}\color{#9f69b9}{\textsf{l}}\color{#b87ecf}{\textsf{i}}\color{#d296e4}{\textsf{n}}\color{#edb3f5}{\textsf{k}}\color{#fae1fd}{\textsf{ies}}$
+  $\color{#7E5E76}{\textsf{s}}\color{#86657E}{\textsf{t}}\color{#8E6B86}{\textsf{a}}\color{#97728E}{\textsf{m}}\color{#9F7996}{\textsf{p}}\color{#A77F9E}{\textsf{s}}\color{#AF86A6}{\textsf{ and }}\color{#C093B6}{\textsf{b}}\color{#C89ABE}{\textsf{l}}\color{#D0A1C6}{\textsf{i}}\color{#D9A7CE}{\textsf{n}}\color{#E2AECF}{\textsf{k}}\color{#E9BCD5}{\textsf{i}}\color{#F0C9DA}{\textsf{e}}\color{#F7D7DF}{\textsf{s}}$
 </summary>
   <p align="center">
   </p>
