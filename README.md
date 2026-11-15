@@ -20,7 +20,7 @@
       <details>
       
 <summary>
-  $\color{#000000}{\textsf{b}}\color{#000000}{\textsf{f}}\color{#000000}{\textsf{y}}\color{#000000}{\textsf{i}}$
+  $\color{#FED5FE}{\textsf{b}}\color{#FED5FE}{\textsf{f}}\color{#FED5FE}{\textsf{y}}\color{#FED5FE}{\textsf{i}}$
 </summary>
         $\color{#FEC8FE}{\textsf{c+h is fine, just don't be weird}}$ <br>
         $\color{#FEC8FE}{\textsf{usually always off tab so w2i}}$ <br>
