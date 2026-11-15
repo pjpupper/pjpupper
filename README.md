@@ -39,18 +39,18 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#000000}{\textsf{d}}\color{#000000}{\textsf{n}}\color{#000000}{\textsf{i}}$
+  $\color{#F9F2CD}{\textsf{d}}\color{#F9F2CD}{\textsf{n}}\color{#F9F2CD}{\textsf{i}}$
 </summary>
-        $\color{#FEC8FE}{\textsf{under 16s}}$ <br>
-        $\color{#FEC8FE}{\textsf{hannigram shippers}}$ <br>
-        $\color{#FEC8FE}{\textsf{proshippers}}$ <br>
-        $\color{#FEC8FE}{\textsf{darkshippers}}$ <br>
-        $\color{#FEC8FE}{\textsf{bigots, racists, abusers}}$ <br>
-        $\color{#FEC8FE}{\textsf{pj ransone antis}}$ <br>
-        $\color{#FEC8FE}{\textsf{religious people}}$ <br>
-        $\color{#FEC8FE}{\textsf{myra kaspbrak haters}}$ <br>
-        $\color{#FEC8FE}{\textsf{people who call themselves problematic}}$ <br>
-        $\color{#FEC8FE}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
+        $\color{#F9F2CD}{\textsf{under 16s}}$ <br>
+        $\color{#F9F2CD}{\textsf{hannigram shippers}}$ <br>
+        $\color{#F9F2CD}{\textsf{proshippers}}$ <br>
+        $\color{#F9F2CD}{\textsf{darkshippers}}$ <br>
+        $\color{#F9F2CD}{\textsf{bigots, racists, abusers}}$ <br>
+        $\color{#F9F2CD}{\textsf{pj ransone antis}}$ <br>
+        $\color{#F9F2CD}{\textsf{religious people}}$ <br>
+        $\color{#F9F2CD}{\textsf{myra kaspbrak haters}}$ <br>
+        $\color{#F9F2CD}{\textsf{people who call themselves problematic}}$ <br>
+        $\color{#F9F2CD}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
       </details>
     </td>
   </tr>
