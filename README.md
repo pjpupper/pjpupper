@@ -42,6 +42,7 @@
   $\color{#000000}{\textsf{d}}\color{#6B45A8}{\textsf{n}}\color{#F9F5CF}{\textsf{i}}$
 </summary>
         $\color{#F9F5CF}{\textsf{under 16s}}$ <br>
+        $\color{#F9F5CF}{\textsf{hannigram shippers}}$ <br>
         $\color{#F9F5CF}{\textsf{proshippers}}$ <br>
         $\color{#F9F5CF}{\textsf{darkshippers}}$ <br>
         $\color{#F9F5CF}{\textsf{bigots, racists, abusers}}$ <br>
