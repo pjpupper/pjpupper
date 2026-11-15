@@ -111,7 +111,7 @@
 
   <details>
 <summary>
-  $\color{#070409}{\textsf{s}}\color{#130916}{\textsf{t}}\color{#210E25}{\textsf{a}}\color{#321336}{\textsf{m}}\color{#461849}{\textsf{p}}\color{#5E1D5E}{\textsf{s}}\color{#772374}{\textsf{ and }}\color{#8E3086}{\textsf{b}}\color{#A34A9A}{\textsf{l}}\color{#B86DB0}{\textsf{i}}\color{#CE96C8}{\textsf{n}}\color{#E5C5E2}{\textsf{k}}\color{#FCE8FA}{\textsf{ies}}$
+  $\color{#0d0711}{\textsf{s}}\color{#180e22}{\textsf{t}}\color{#251634}{\textsf{a}}\color{#352048}{\textsf{m}}\color{#472c5e}{\textsf{p}}\color{#5b3874}{\textsf{s}}\color{#70468b}{\textsf{ and }}\color{#8756a2}{\textsf{b}}\color{#9f69b9}{\textsf{l}}\color{#b87ecf}{\textsf{i}}\color{#d296e4}{\textsf{n}}\color{#edb3f5}{\textsf{k}}\color{#fae1fd}{\textsf{ies}}$
 </summary>
   <p align="center">
   </p>
