@@ -20,7 +20,7 @@
       <details>
       
 <summary>
-  $\color{#000000}{\textsf{b}}\color{#4C0543}{\textsf{f}}\color{#C82677}{\textsf{y}}\color{#FEC8FE}{\textsf{i}}$
+  $\color{#000000}{\textsf{b}}\color{#000000}{\textsf{f}}\color{#000000}{\textsf{y}}\color{#000000}{\textsf{i}}$
 </summary>
         $\color{#FEC8FE}{\textsf{c+h is fine, just don't be weird}}$ <br>
         $\color{#FEC8FE}{\textsf{usually always off tab so w2i}}$ <br>
@@ -39,7 +39,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#000000}{\textsf{d}}\color{#4C0543}{\textsf{n}}\color{#C82677}{\textsf{i}}$
+  $\color{#000000}{\textsf{d}}\color{#000000}{\textsf{n}}\color{#000000}{\textsf{i}}$
 </summary>
         $\color{#FEC8FE}{\textsf{under 16s}}$ <br>
         $\color{#FEC8FE}{\textsf{hannigram shippers}}$ <br>
