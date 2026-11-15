@@ -39,7 +39,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#0d0711}{\textsf{d}}\color{#5b3874}{\textsf{n}}\color{#b87ecf}{\textsf{i}}$
+  $\color{#7E5E76}{\textsf{d}}\color{#B088A5}{\textsf{n}}\color{#E2C0D7}{\textsf{i}}$
 </summary>
         $\color{#F9F2CD}{\textsf{under 16s}}$ <br>
         $\color{#F9F2CD}{\textsf{hannigram shippers}}$ <br>
