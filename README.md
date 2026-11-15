@@ -34,7 +34,7 @@
       </details>
     </td>
     <td align="center" valign="middle">
-      <img width="20" alt="gif" src="https://files.catbox.moe/i8svce.gif" />
+      <img width="20" alt="gif" src="https://gifcity.carrd.co/assets/images/gallery97/a58d6d18.gif?v=3fc8f5cd" />
     </td>
     <td valign="top">
       <details>
