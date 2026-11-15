@@ -77,21 +77,21 @@
   <tr>
     <td>
       <a href="https://pjpupper.atabook.org/">
-        <img width="70" src="https://files.catbox.moe/tdzms5.png" />
+        <img width="70" src="https://files.catbox.moe/v4l56c.png" />
       </a>
     </td>
     <td>
       <a href="https://rentry.co/pjpupper">
-        <img width="70" src="https://files.catbox.moe/g69hea.png" />
+        <img width="70" src="https://files.catbox.moe/ktvjjn.png" />
     </td>
     <td>
       <a href="https://passportdex.com/pjpupper">
-        <img width="70" src="https://files.catbox.moe/6seg3p.png" />
+        <img width="70" src="https://files.catbox.moe/2l2gzu.png" />
       </a>
     </td>
     <td>
       <a href="https://pjpupper.straw.page/">
-        <img width="70" src="https://files.catbox.moe/h4hll0.png" />
+        <img width="70" src="https://files.catbox.moe/n2xgx2.png" />
     </td>
   </tr>
 </table>
