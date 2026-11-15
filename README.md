@@ -1,5 +1,5 @@
 <div align="center">
-<img width= "450" alt="image" src="https://files.catbox.moe/c8wmsa.png" />
+<img width= "350" alt="image" src="https://files.catbox.moe/c8wmsa.png" />
   <br>
   </br>
 <div align="center">
@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<img width= "450" alt="image" src="https://files.catbox.moe/bpwqn3.png" />
+<img width= "350" alt="image" src="https://files.catbox.moe/bpwqn3.png" />
 
 
 <table align="center">
