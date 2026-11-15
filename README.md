@@ -86,7 +86,7 @@
     </td>
     <td>
       <a href="https://passportdex.com/pjpupper">
-        <img width="70" src="https://files.catbox.moe/2l2gzu.png" />
+        <img width="70" src="https://files.catbox.moe/lz7ehj.png" />
       </a>
     </td>
     <td>
