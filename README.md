@@ -1,5 +1,5 @@
 <div align="center">
-<img width= "450" alt="image" src="https://files.catbox.moe/tpvdpw.png" />
+<img width= "450" alt="image" src="https://files.catbox.moe/n7leqy.png" />
   <br>
   </br>
 <div align="center">
@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<img width= "550" alt="image" src="https://files.catbox.moe/akb8ee.png" />
+<img width= "550" alt="image" src="https://files.catbox.moe/hcq0di.png" />
 
 
 <table align="center">
@@ -76,21 +76,21 @@
   <tr>
     <td>
       <a href="https://pjpupper.atabook.org/">
-        <img width="70" src="https://files.catbox.moe/ktvjjn.png" />
+        <img width="90" src="https://files.catbox.moe/s18ib6.png" />
       </a>
     </td>
     <td>
       <a href="https://rentry.co/pjpupper">
-        <img width="70" src="https://files.catbox.moe/v4l56c.png" />
+        <img width="70" src="https://files.catbox.moe/p5x38k.png" />
     </td>
     <td>
       <a href="https://passportdex.com/pjpupper">
-        <img width="70" src="https://files.catbox.moe/lz7ehj.png" />
+        <img width="100" src="https://files.catbox.moe/yodugt.png" />
       </a>
     </td>
     <td>
       <a href="https://pjpupper.straw.page/">
-        <img width="70" src="https://files.catbox.moe/n2xgx2.png" />
+        <img width="100" src="https://files.catbox.moe/63j2jh.png" />
     </td>
   </tr>
 </table>
