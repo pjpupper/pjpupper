@@ -81,7 +81,7 @@
     </td>
     <td>
       <a href="https://rentry.co/pjpupper">
-        <img width="70" src="https://files.catbox.moe/p5x38k.png" />
+        <img width="70" src="https://files.catbox.moe/8cy33x.png" />
     </td>
     <td>
       <a href="https://passportdex.com/pjpupper">
