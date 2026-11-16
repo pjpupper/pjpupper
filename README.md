@@ -26,8 +26,7 @@
         $\color{#7B6E75}{\textsf{usually always off tab so w2i}}$ <br>
         $\color{#7B6E75}{\textsf{not super active}}$ <br>
         $\color{#7B6E75}{\textsf{i swear a lot}}$ <br>
-        $\color{#7B6E75}{\textsf{pj ransone obsessed}}$ <br>
-        $\color{#7B6E75}{\textsf{bill hader lover}}$ <br>
+        $\color{#7B6E75}{\textsf{in love with james ransone}}$ <br>
         $\color{#7B6E75}{\textsf{i love the 1970s ok? ok}}$ <br>
         $\color{#7B6E75}{\textsf{i love the early 2000s ok? ok}}$ <br>
         $\color{#7B6E75}{\textsf{hippie}}$ <br>
