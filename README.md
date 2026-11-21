@@ -38,7 +38,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#8F5E48}{\textsf{d}}\color{#C58E70}{\textsf{n}}\color{#F7D3B8}{\textsf{i}}$
+  $\color{#B85328}{\textsf{b}}\color{#DA7341}{\textsf{f}}\color{#F79A65}{\textsf{y}}\color{#FFD0A8}{\textsf{i}}$
 </summary>
         $\color{#7B6E75}{\textsf{under 16s}}$ <br>
         $\color{#7B6E75}{\textsf{proshippers}}$ <br>
