@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<img width= "370" alt="image" src="https://64.media.tumblr.com/c305bbd190c95be4a02c89f7c88b84df/a465d542de39609e-7d/s75x75_c1/eb3ae7bf410862358dff352e31d45c3c6ab5b5c0.gifv" />
+<img width= "370" alt="image" src="https://files.catbox.moe/z47ufm.png" />
 
 
 <table align="center">
@@ -33,7 +33,7 @@
       </details>
     </td>
     <td align="center" valign="middle">
-      <img width="30" alt="gif" src="https://files.catbox.moe/z47ufm.png" />
+      <img width="30" alt="gif" src="https://64.media.tumblr.com/c305bbd190c95be4a02c89f7c88b84df/a465d542de39609e-7d/s75x75_c1/eb3ae7bf410862358dff352e31d45c3c6ab5b5c0.gifv" />
     </td>
     <td valign="top">
       <details>
