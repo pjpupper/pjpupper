@@ -75,12 +75,12 @@
   <tr>
     <td>
       <a href="https://pjpupper.atabook.org/">
-        <img width="90" src="https://files.catbox.moe/k1kjoc.png" />
+        <img width="100" src="https://files.catbox.moe/k1kjoc.png" />
       </a>
     </td>
     <td>
       <a href="https://rentry.co/pjpupper">
-        <img width="70" src="https://files.catbox.moe/vc3zvi.png" />
+        <img width="100" src="https://files.catbox.moe/vc3zvi.png" />
     </td>
     <td>
       <a href="https://passportdex.com/pjpupper">
