@@ -33,7 +33,7 @@
       </details>
     </td>
     <td align="center" valign="middle">
-      <img width="30" alt="gif" src="https://files.catbox.moe/athq4p.gif" />
+      <img width="30" alt="gif" src="https://cdn.discordapp.com/emojis/974819141733208074.webp?size=28&quality=lossless" />
     </td>
     <td valign="top">
       <details>
