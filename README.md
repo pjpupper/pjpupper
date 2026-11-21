@@ -109,7 +109,7 @@
 
   <details>
 <summary>
-  $\color{#5C3426}{\textsf{s}}\color{#693C2A}{\textsf{t}}\color{#76442F}{\textsf{a}}\color{#844D34}{\textsf{m}}\color{#92563A}{\textsf{p}}\color{#A06040}{\textsf{s}}\color{#AE6B46}{\textsf{ and }}\color{#BC764D}{\textsf{b}}\color{#C88255}{\textsf{l}}\color{#D28F5F}{\textsf{i}}\color{#DB9D6C}{\textsf{n}}\color{#E3AC7C}{\textsf{k}}\color{#E9BC8F}{\textsf{i}}\color{#EFCEA7}{\textsf{e}}\color{#F3E2C6}{\textsf{s}}$
+  $\color{#88281E}{\textsf{s}}\color{#90352B}{\textsf{t}}\color{#974339}{\textsf{a}}\color{#9F5046}{\textsf{m}}\color{#A65E54}{\textsf{p}}\color{#AE6B62}{\textsf{s}}\color{#B6796F}{\textsf{ and }}\color{#BE887E}{\textsf{b}}\color{#C5958B}{\textsf{l}}\color{#CDA399}{\textsf{i}}\color{#D5B0A7}{\textsf{n}}\color{#DCBEB4}{\textsf{k}}\color{#E4CCC2}{\textsf{i}}\color{#ECD9D0}{\textsf{e}}\color{#F4E7DD}{\textsf{s}}$
 </summary>
   <p align="center">
   </p>
