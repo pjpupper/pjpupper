@@ -33,7 +33,7 @@
       </details>
     </td>
     <td align="center" valign="middle">
-      <img width="30" alt="gif" src="https://cdn.discordapp.com/emojis/974819141733208074.webp?size=28&quality=lossless" />
+      <img width="20" alt="gif" src="https://cdn.discordapp.com/emojis/974819141733208074.webp?size=28&quality=lossless" />
     </td>
     <td valign="top">
       <details>
@@ -64,7 +64,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Schoolbell&size=18&duration=4986&pause=10&delay=10&color=FEA974&center=true&vCenter=true&width=435&lines=lovin'+you+is+more+than+just+a+dream+come+true%2C;and+everything+that+I+do+is+out+of+lovin'+you.;+la+la+la+la+la+la+la...+do+do+do+do+do...;AAAAAAAAAHHHHH+!!!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Schoolbell&size=18&duration=4986&pause=10&delay=10&color=B85328&center=true&vCenter=true&width=435&lines=lovin'+you+is+more+than+just+a+dream+come+true%2C;and+everything+that+I+do+is+out+of+lovin'+you.;+la+la+la+la+la+la+la...+do+do+do+do+do...;AAAAAAAAAHHHHH+!!!+" alt="Typing SVG" /></a>
 
 
 
