@@ -38,7 +38,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#FFD0A8}{\textsf{d}}\color{#EA8653}{\textsf{n}}\color{#FFD0A8}{\textsf{i}}$
+  $\color{#B85328}{\textsf{d}}\color{#EA8653}{\textsf{n}}\color{#FFD0A8}{\textsf{i}}$
 </summary>
         $\color{#7B6E75}{\textsf{under 16s}}$ <br>
         $\color{#7B6E75}{\textsf{proshippers}}$ <br>
@@ -64,7 +64,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Schoolbell&size=18&duration=4986&pause=10&delay=10&color=B85328&center=true&vCenter=true&width=435&lines=lovin'+you+is+more+than+just+a+dream+come+true%2C;and+everything+that+I+do+is+out+of+lovin'+you.;+la+la+la+la+la+la+la...+do+do+do+do+do...;AAAAAAAAAHHHHH+!!!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Schoolbell&size=18&duration=4986&pause=10&delay=10&color=FFD0A8&center=true&vCenter=true&width=435&lines=lovin'+you+is+more+than+just+a+dream+come+true%2C;and+everything+that+I+do+is+out+of+lovin'+you.;+la+la+la+la+la+la+la...+do+do+do+do+do...;AAAAAAAAAHHHHH+!!!+" alt="Typing SVG" /></a>
 
 
 
