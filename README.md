@@ -20,7 +20,7 @@
       <details>
       
 <summary>
-  $\color{#6E3E2B}{\textsf{b}}\color{#9E5A38}{\textsf{f}}\color{#CE8452}{\textsf{y}}\color{#F3E2C6}{\textsf{i}}$
+  $\color{#593A36}{\textsf{b}}\color{#593A36}{\textsf{f}}\color{#593A36}{\textsf{y}}\color{#593A36}{\textsf{i}}$
 </summary>
         $\color{#7B6E75}{\textsf{c+h is fine, just don't be weird}}$ <br>
         $\color{#7B6E75}{\textsf{usually always off tab so w2i}}$ <br>
@@ -38,7 +38,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#6E3E2B}{\textsf{d}}\color{#B66F45}{\textsf{n}}\color{#F3E2C6}{\textsf{i}}$
+  $\color{#593A36}{\textsf{d}}\color{#593A36}{\textsf{n}}\color{#593A36}{\textsf{i}}$
 </summary>
         $\color{#7B6E75}{\textsf{under 16s}}$ <br>
         $\color{#7B6E75}{\textsf{proshippers}}$ <br>
