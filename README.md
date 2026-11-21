@@ -38,7 +38,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#B85328}{\textsf{d}}\color{#EA8653}{\textsf{n}}\color{#FFD0A8}{\textsf{i}}$
+  $\color{#6E3E2B}{\textsf{d}}\color{#B66F45}{\textsf{n}}\color{#F3E2C6}{\textsf{i}}$
 </summary>
         $\color{#7B6E75}{\textsf{under 16s}}$ <br>
         $\color{#7B6E75}{\textsf{proshippers}}$ <br>
@@ -64,7 +64,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Schoolbell&size=18&duration=4986&pause=10&delay=10&color=FFD0A8&center=true&vCenter=true&width=435&lines=lovin'+you+is+more+than+just+a+dream+come+true%2C;and+everything+that+I+do+is+out+of+lovin'+you.;+la+la+la+la+la+la+la...+do+do+do+do+do...;AAAAAAAAAHHHHH+!!!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Schoolbell&size=18&duration=4986&pause=10&delay=10&color=E3AC7C&center=true&vCenter=true&width=435&lines=lovin'+you+is+more+than+just+a+dream+come+true%2C;and+everything+that+I+do+is+out+of+lovin'+you.;+la+la+la+la+la+la+la...+do+do+do+do+do...;AAAAAAAAAHHHHH+!!!+" alt="Typing SVG" /></a>
 
 
 
@@ -109,7 +109,7 @@
 
   <details>
 <summary>
-  $\color{#9E431E}{\textsf{s}}\color{#AC4B23}{\textsf{t}}\color{#BA5429}{\textsf{a}}\color{#C85E31}{\textsf{m}}\color{#D56A3A}{\textsf{p}}\color{#E17745}{\textsf{s}}\color{#EC8551}{\textsf{ and }}\color{#F4945F}{\textsf{b}}\color{#FA9F6B}{\textsf{l}}\color{#FCAB79}{\textsf{i}}\color{#FDB687}{\textsf{n}}\color{#FEC196}{\textsf{k}}\color{#FFCCA4}{\textsf{i}}\color{#FFD1AC}{\textsf{e}}\color{#FFD6B3}{\textsf{s}}$
+  $\color{#5C3426}{\textsf{s}}\color{#693C2A}{\textsf{t}}\color{#76442F}{\textsf{a}}\color{#844D34}{\textsf{m}}\color{#92563A}{\textsf{p}}\color{#A06040}{\textsf{s}}\color{#AE6B46}{\textsf{ and }}\color{#BC764D}{\textsf{b}}\color{#C88255}{\textsf{l}}\color{#D28F5F}{\textsf{i}}\color{#DB9D6C}{\textsf{n}}\color{#E3AC7C}{\textsf{k}}\color{#E9BC8F}{\textsf{i}}\color{#EFCEA7}{\textsf{e}}\color{#F3E2C6}{\textsf{s}}$
 </summary>
   <p align="center">
   </p>
