@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<img width= "550" alt="image" src="https://files.catbox.moe/z47ufm.png" />
+<img width= "350" alt="image" src="https://files.catbox.moe/z47ufm.png" />
 
 
 <table align="center">
