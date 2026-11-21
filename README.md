@@ -33,7 +33,7 @@
       </details>
     </td>
     <td align="center" valign="middle">
-      <img width="30" alt="gif" src="https://files.catbox.moe/7xe7vf.png" />
+      <img width="30" alt="gif" src="https://files.catbox.moe/2lz1qg.gif" />
     </td>
     <td valign="top">
       <details>
