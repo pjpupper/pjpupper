@@ -20,7 +20,7 @@
       <details>
       
 <summary>
-  $\color{#8F5E48}{\textsf{b}}\color{#B37D61}{\textsf{f}}\color{#D8A181}{\textsf{y}}\color{#F7D3B8}{\textsf{i}}$
+  $\color{#B85328}{\textsf{b}}\color{#DA7341}{\textsf{f}}\color{#F79A65}{\textsf{y}}\color{#FFD0A8}{\textsf{i}}$
 </summary>
         $\color{#7B6E75}{\textsf{c+h is fine, just don't be weird}}$ <br>
         $\color{#7B6E75}{\textsf{usually always off tab so w2i}}$ <br>
@@ -38,7 +38,7 @@
     <td valign="top">
       <details>
 <summary>
-  $\color{#B85328}{\textsf{b}}\color{#DA7341}{\textsf{f}}\color{#F79A65}{\textsf{y}}\color{#FFD0A8}{\textsf{i}}$
+  $\color{#B85328}{\textsf{d}}\color{#EA8653}{\textsf{n}}\color{#FFD0A8}{\textsf{i}}$
 </summary>
         $\color{#7B6E75}{\textsf{under 16s}}$ <br>
         $\color{#7B6E75}{\textsf{proshippers}}$ <br>
@@ -109,7 +109,7 @@
 
   <details>
 <summary>
-  $\color{#6E4332}{\textsf{s}}\color{#7B4C39}{\textsf{t}}\color{#885540}{\textsf{a}}\color{#955F48}{\textsf{m}}\color{#A26950}{\textsf{p}}\color{#AF7459}{\textsf{s}}\color{#BC8063}{\textsf{ and }}\color{#C88C6E}{\textsf{b}}\color{#D4997A}{\textsf{l}}\color{#DFA787}{\textsf{i}}\color{#E8B595}{\textsf{n}}\color{#F0C3A4}{\textsf{k}}\color{#F5D0B4}{\textsf{i}}\color{#F9DEC4}{\textsf{e}}\color{#FBE8D3}{\textsf{s}}$
+  $\color{#9E431E}{\textsf{s}}\color{#AC4B23}{\textsf{t}}\color{#BA5429}{\textsf{a}}\color{#C85E31}{\textsf{m}}\color{#D56A3A}{\textsf{p}}\color{#E17745}{\textsf{s}}\color{#EC8551}{\textsf{ and }}\color{#F4945F}{\textsf{b}}\color{#FA9F6B}{\textsf{l}}\color{#FCAB79}{\textsf{i}}\color{#FDB687}{\textsf{n}}\color{#FEC196}{\textsf{k}}\color{#FFCCA4}{\textsf{i}}\color{#FFD1AC}{\textsf{e}}\color{#FFD6B3}{\textsf{s}}$
 </summary>
   <p align="center">
   </p>
