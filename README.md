@@ -64,7 +64,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Burned&size=23&duration=3586&pause=2&color=7B6E75&center=true&vCenter=true&width=435&lines=this+world+is+evil+enough%2C;without+you+in+it.;i've+had+about+enough+of+this+shit%2C;but+it+just+keeps+on+spinnin';manifest+destiny%2C;this+land+is+our+land%2C;scorch+the+sky+and+paint+it+dry.;it's+1983%2C;SATANIC+PANIC!;the+people+you+fight%2C;you+will+delight" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Burned&size=18&duration=3586&pause=2&color=8A372E&center=true&vCenter=true&width=435&lines=see+that+bird+sitting+on+my+window+sill%3F;well+he's+singing+whippoorwill+all+the+night+through%2C;just+whippoorwill%2C+all+the+night+through." alt="Typing SVG" /></a>
 
 
 
