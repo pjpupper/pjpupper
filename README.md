@@ -20,16 +20,16 @@
       <details>
       
 <summary>
-  $\color{#F4E7DD}{\textsf{b}}\color{#F4E7DD}{\textsf{f}}\color{#F4E7DD}{\textsf{y}}\color{#F4E7DD}{\textsf{i}}$
+  $\color{#88281E}{\textsf{b}}\color{#AC685E}{\textsf{f}}\color{#D0A79D}{\textsf{y}}\color{#F4E7DD}{\textsf{i}}$
 </summary>
-        $\color{#FEF2D8}{\textsf{c+h is fine, just don't be weird}}$ <br>
-        $\color{#FEF2D8}{\textsf{usually always off tab so w2i}}$ <br>
-        $\color{#FEF2D8}{\textsf{not super active}}$ <br>
-        $\color{#FEF2D8}{\textsf{i swear a lot}}$ <br>
-        $\color{#FEF2D8}{\textsf{in love with james ransone}}$ <br>
-        $\color{#FEF2D8}{\textsf{i love the 1970s ok? ok}}$ <br>
-        $\color{#FEF2D8}{\textsf{i love the early 2000s ok? ok}}$ <br>
-        $\color{#FEF2D8}{\textsf{hippie}}$ <br>
+        $\color{#F4E7DD}{\textsf{c+h is fine, just don't be weird}}$ <br>
+        $\color{#F4E7DD}{\textsf{usually always off tab so w2i}}$ <br>
+        $\color{#F4E7DD}{\textsf{not super active}}$ <br>
+        $\color{#F4E7DD}{\textsf{i swear a lot}}$ <br>
+        $\color{#F4E7DD}{\textsf{in love with james ransone}}$ <br>
+        $\color{#F4E7DD}{\textsf{i love the 1970s ok? ok}}$ <br>
+        $\color{#F4E7DD}{\textsf{i love the early 2000s ok? ok}}$ <br>
+        $\color{#F4E7DD}{\textsf{hippie}}$ <br>
       </details>
     </td>
     <td align="center" valign="middle">
@@ -40,15 +40,15 @@
 <summary>
   $\color{#F4E7DD}{\textsf{d}}\color{#F4E7DD}{\textsf{n}}\color{#F4E7DD}{\textsf{i}}$
 </summary>
-        $\color{#FEF2D8}{\textsf{under 16s}}$ <br>
-        $\color{#FEF2D8}{\textsf{proshippers}}$ <br>
-        $\color{#FEF2D8}{\textsf{darkshippers}}$ <br>
-        $\color{#FEF2D8}{\textsf{bigots, racists, abusers}}$ <br>
-        $\color{#FEF2D8}{\textsf{pj ransone antis}}$ <br>
-        $\color{#FEF2D8}{\textsf{religious people}}$ <br>
-        $\color{#FEF2D8}{\textsf{myra kaspbrak haters}}$ <br>
-        $\color{#FEF2D8}{\textsf{people who call themselves problematic}}$ <br>
-        $\color{#FEF2D8}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
+        $\color{#F4E7DD}{\textsf{under 16s}}$ <br>
+        $\color{#F4E7DD}{\textsf{proshippers}}$ <br>
+        $\color{#F4E7DD}{\textsf{darkshippers}}$ <br>
+        $\color{#F4E7DD}{\textsf{bigots, racists, abusers}}$ <br>
+        $\color{#F4E7DD}{\textsf{pj ransone antis}}$ <br>
+        $\color{#F4E7DD}{\textsf{religious people}}$ <br>
+        $\color{#F4E7DD}{\textsf{myra kaspbrak haters}}$ <br>
+        $\color{#F4E7DD}{\textsf{people who call themselves problematic}}$ <br>
+        $\color{#F4E7DD}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
       </details>
     </td>
   </tr>
