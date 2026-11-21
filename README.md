@@ -64,7 +64,7 @@
 
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=18&duration=4986&pause=10&delay=10&color=BA695E&center=true&vCenter=true&width=435&lines=lovin'+you+is+more+than+just+a+dream+come+true%2C;and+everything+that+I+do+is+out+of+lovin'+you.;+la+la+la+la+la+la+la...+do+do+do+do+do...;AAAAAAAAAHHHHH+!!!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=18&duration=4986&pause=10&delay=10&color=88281E&center=true&vCenter=true&width=435&lines=lovin'+you+is+more+than+just+a+dream+come+true%2C;and+everything+that+I+do+is+out+of+lovin'+you.;+la+la+la+la+la+la+la...+do+do+do+do+do...;AAAAAAAAAHHHHH+!!!+" alt="Typing SVG" /></a>
 
 
 
